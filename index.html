@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Employee Attrition Prediction</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Employee Attrition Prediction</h1>
+        <form id="attritionForm" method="POST" action="/predict">
+            <label for="department">Department:</label>
+            <input type="text" id="department" name="department" required>
+            <label for="position">Position:</label>
+            <input type="text" id="position" name="position" required>
+            <label for="tenure">Tenure (years):</label>
+            <input type="number" id="tenure" name="tenure" required>
+            <label for="satisfaction">Employee Satisfaction (out of 10):</label>
+            <input type="number" id="satisfaction" name="satisfaction" required>
+            <label for="engagement">Engagement Score (out of 10):</label>
+            <input type="number" id="engagement" name="engagement" required>
+            <label for="salary">Salary:</label>
+            <input type="number" id="salary" name="salary" required>
+            <button type="submit">Predict</button>
+        </form>
+        <div id="result">
+            {% if prediction %}
+                <p>Prediction: {{ prediction }}</p>
+            {% endif %}
+        </div>
+    </div>
+</body>
+</html>

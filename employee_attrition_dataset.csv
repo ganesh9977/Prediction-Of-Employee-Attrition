@@ -1,0 +1,1001 @@
+Employee ID,Department,Position,Date of Joining,Employment Status,Reason for Leaving,Tenure (years),Employee Satisfaction (out of 10),Engagement Score (out of 10),Salary,Benefits Package,Training Programs Attended,Career Development Plans,Work Environment Score (out of 10),Diversity Score (out of 10),Performance Ratings (out of 5),Performance Metrics,Gender,Age,Marital Status,Absenteeism (days/month),Target
+1,Operations,Analyst,2016-12-14,Stay,,7,8,6,68868,"Health, Dental",5,No,8,9,3,0.771329989231039,Female,34,Divorced,3.381874759809041,0
+2,HR,Manager,2018-01-14,Stay,,6,6,9,116757,"Health, Dental, 401k",7,No,6,5,4,0.7449776773618157,Male,46,Divorced,1.7640770128514034,0
+3,Finance,Developer,2018-05-22,Resign,Relocation,5,10,8,66418,"Health, 401k",2,Yes,8,5,3,0.9462811420946808,Male,48,Single,3.015997860796128,1
+4,Finance,Administrator,2015-06-02,Stay,,8,6,5,88367,"Health, 401k",5,No,8,7,3,0.8512724226329658,Female,37,Married,1.4932672706818866,0
+5,Finance,Sales Rep,2019-11-07,Stay,,4,10,9,101074,"Health, Dental",4,Yes,7,7,5,0.8343789268918795,Male,44,Divorced,3.5240376774118323,0
+6,Sales,Analyst,2018-05-19,Resign,Personal Reasons,5,7,6,96436,"Health, Dental, 401k",1,No,10,6,3,0.9264526712574176,Male,57,Single,2.986680391518707,1
+7,Finance,Analyst,2016-01-11,Stay,,8,8,9,103915,"Health, Dental",3,No,10,6,5,0.8412067631697762,Female,55,Single,3.622393217738219,0
+8,IT,Analyst,2015-08-09,Stay,,8,8,7,56336,"Health, Dental",4,Yes,9,6,3,0.8835519549606818,Female,38,Divorced,3.743568297471371,0
+9,Operations,Developer,2020-07-29,Stay,,3,8,8,59464,"Health, 401k",6,Yes,6,9,3,0.8218721776265754,Female,22,Single,3.632330011596152,0
+10,HR,Administrator,2016-02-03,Stay,,8,9,6,108184,"Health, Dental, 401k",1,Yes,8,7,4,0.9662566825479253,Male,26,Single,4.362396355824517,0
+11,HR,Analyst,2019-04-06,Stay,,4,6,7,65117,"Health, Dental",3,No,9,10,5,0.8696696917610807,Female,28,Divorced,4.809912072188132,0
+12,Operations,Administrator,2019-08-19,Stay,,4,10,7,65984,"Health, 401k",5,Yes,7,8,5,0.9707533157758852,Male,52,Single,2.3396644678633067,0
+13,IT,Sales Rep,2017-03-08,Resign,Relocation,7,9,9,119013,"Health, 401k",3,Yes,7,7,3,0.9696488708800822,Female,41,Divorced,1.3600120532792155,1
+14,Sales,Manager,2021-06-29,Stay,,2,7,7,111569,"Health, Dental",5,No,7,8,3,0.9275712193873004,Male,38,Divorced,2.511752065943619,0
+15,HR,Manager,2021-02-14,Resign,Better Opportunity,3,7,6,56054,"Health, Dental, 401k",2,No,10,9,4,0.8644153863552395,Male,39,Widowed,0.42563449507861006,1
+16,Sales,Sales Rep,2017-04-04,Stay,,6,9,10,112190,"Health, Dental, 401k",2,No,7,9,5,0.8962658784818646,Male,51,Single,1.6988567370210705,0
+17,Sales,Manager,2018-04-14,Stay,,5,10,7,75400,"Health, Dental",7,Yes,6,8,5,0.7666254569513133,Male,34,Divorced,1.5718683687057196,0
+18,HR,Analyst,2021-03-30,Resign,Better Opportunity,2,7,7,54760,"Health, 401k",5,Yes,8,8,5,0.9757382073398548,Female,32,Divorced,2.96911484999463,1
+19,Sales,Developer,2022-07-04,Resign,Better Opportunity,1,6,9,114349,"Health, Dental, 401k",4,Yes,7,6,4,0.9579207763610182,Male,39,Widowed,1.6406486089799632,1
+20,Operations,Manager,2022-11-24,Stay,,1,7,6,55781,"Health, Dental",3,No,8,9,4,0.9361429861128695,Female,56,Single,3.3831088801210636,0
+21,Finance,Sales Rep,2021-09-27,Stay,,2,10,10,64044,"Health, Dental, 401k",7,No,9,10,3,0.7076443068759428,Male,62,Divorced,2.4483272015332953,0
+22,HR,Developer,2016-02-20,Stay,,8,6,5,114204,"Health, Dental",7,Yes,10,7,3,0.7583581454744507,Male,46,Single,4.47884572533107,0
+23,Finance,Sales Rep,2016-02-09,Stay,,8,9,8,73135,"Health, Dental, 401k",5,No,7,8,4,0.9750092244737639,Female,49,Widowed,0.6163024539665013,0
+24,HR,Analyst,2019-11-08,Resign,Relocation,4,10,5,68480,"Health, 401k",4,Yes,6,6,5,0.9427161784995832,Male,56,Single,0.05085832334393858,1
+25,IT,Sales Rep,2021-07-12,Stay,,2,6,5,77621,"Health, Dental",3,No,7,6,4,0.9538478867230471,Male,36,Widowed,2.359909760343686,0
+26,Finance,Analyst,2018-04-18,Stay,,5,6,6,58324,"Health, Dental",4,No,7,9,3,0.8213708501602767,Male,30,Married,1.3062206776180747,0
+27,HR,Manager,2021-03-03,Stay,,3,6,6,95542,"Health, Dental",5,Yes,9,6,5,0.7769124191155699,Female,40,Single,2.1210646230647097,0
+28,Sales,Developer,2019-08-13,Stay,,4,10,7,94155,"Health, Dental",3,No,6,6,4,0.9672093449126895,Female,49,Divorced,4.91675464890568,0
+29,Finance,Administrator,2020-10-18,Stay,,3,8,8,72636,"Health, Dental, 401k",3,No,7,5,3,0.8118865971260615,Female,48,Divorced,4.660534700893274,0
+30,Finance,Developer,2016-10-13,Resign,Better Opportunity,7,7,9,119112,"Health, Dental",4,Yes,6,8,5,0.7896611734326754,Female,45,Widowed,1.818317418306351,1
+31,Finance,Administrator,2019-09-29,Resign,Relocation,4,8,6,86535,"Health, 401k",6,Yes,10,5,3,0.7902586939524876,Female,29,Married,3.440939768794359,1
+32,HR,Manager,2022-09-11,Stay,,1,7,6,100151,"Health, Dental, 401k",2,Yes,6,7,3,0.9647297165466955,Male,32,Single,1.670540264499396,0
+33,Sales,Sales Rep,2016-05-20,Stay,,7,10,7,64072,"Health, Dental, 401k",3,Yes,9,5,4,0.7530790160903111,Female,24,Divorced,2.058454451944123,0
+34,Sales,Analyst,2020-05-17,Stay,,3,7,8,77231,"Health, Dental",6,No,6,7,5,0.949887201860417,Male,43,Married,0.2917519476218894,0
+35,Sales,Analyst,2020-09-26,Stay,,3,10,10,63640,"Health, 401k",7,No,6,7,5,0.8432703198558893,Male,34,Widowed,0.6437778855911913,0
+36,HR,Analyst,2022-04-05,Stay,,1,6,9,59979,"Health, 401k",4,No,10,9,4,0.778343123043338,Female,60,Widowed,3.8340838386488785,0
+37,IT,Manager,2022-04-10,Stay,,1,9,8,56695,"Health, Dental, 401k",2,Yes,10,5,4,0.8752693711477324,Female,33,Divorced,4.867287344247454,0
+38,Operations,Manager,2021-07-06,Stay,,2,8,8,66418,"Health, Dental",7,No,8,9,4,0.7836974458171155,Male,44,Divorced,3.85100141291964,0
+39,Finance,Administrator,2017-03-27,Stay,,6,8,7,70771,"Health, Dental, 401k",6,No,6,10,3,0.8544666034933195,Female,61,Divorced,4.583016070721985,0
+40,Finance,Developer,2020-02-21,Resign,Personal Reasons,4,10,10,104244,"Health, Dental",1,No,7,6,3,0.8841027466505984,Male,35,Divorced,1.5505594638199882,1
+41,IT,Developer,2016-11-20,Resign,Better Opportunity,7,7,5,55556,"Health, 401k",7,Yes,10,9,3,0.8749071477296984,Female,55,Divorced,1.8706364645491376,1
+42,Operations,Sales Rep,2016-01-07,Stay,,8,7,6,111663,"Health, Dental",4,No,10,5,4,0.944871180738952,Male,63,Married,0.2858088700620087,0
+43,IT,Administrator,2017-05-01,Resign,Personal Reasons,6,9,5,77390,"Health, Dental",3,Yes,9,9,3,0.8856300406253688,Female,46,Widowed,0.28728891272360446,1
+44,HR,Manager,2020-01-17,Stay,,4,6,5,72203,"Health, Dental",1,Yes,6,8,5,0.7661918507855369,Female,45,Widowed,4.7646461080953335,0
+45,HR,Manager,2017-10-13,Stay,,6,7,5,78068,"Health, Dental, 401k",5,Yes,6,8,5,0.7884679395301869,Male,45,Married,1.0783782061289786,0
+46,Operations,Analyst,2018-11-16,Resign,Relocation,5,7,7,64897,"Health, Dental, 401k",1,No,6,10,3,0.8206533195498245,Female,50,Divorced,1.132798650374165,1
+47,HR,Administrator,2019-08-08,Stay,,4,6,9,111970,"Health, Dental, 401k",1,No,9,8,5,0.9308462009398554,Male,36,Divorced,1.342199525943375,0
+48,Operations,Administrator,2017-09-01,Stay,,6,9,10,90333,"Health, Dental, 401k",1,No,7,6,5,0.9712547332870222,Male,51,Widowed,1.550347505003606,0
+49,Sales,Manager,2020-09-26,Stay,,3,7,8,105606,"Health, Dental, 401k",2,Yes,7,5,3,0.7073597066497722,Male,61,Divorced,2.469149554257855,0
+50,Operations,Administrator,2017-05-09,Stay,,6,10,5,66575,"Health, 401k",6,No,7,5,3,0.9980254444335956,Female,23,Widowed,2.016132401052326,0
+51,Sales,Analyst,2015-03-06,Stay,,9,6,9,67455,"Health, 401k",6,Yes,8,8,3,0.8474386072211084,Male,50,Single,0.2565102389553958,0
+52,IT,Analyst,2020-10-17,Stay,,3,7,7,89154,"Health, Dental",2,No,9,8,4,0.739523205417114,Female,52,Single,1.4580832489934903,0
+53,IT,Manager,2018-02-18,Stay,,6,9,9,72485,"Health, 401k",2,Yes,9,9,5,0.8696325066609051,Male,37,Single,2.3734375446367566,0
+54,HR,Manager,2017-10-08,Resign,Personal Reasons,6,8,10,100880,"Health, Dental, 401k",1,No,8,6,5,0.8375600041781595,Male,53,Widowed,4.181149091804085,1
+55,Sales,Administrator,2017-05-20,Stay,,6,10,7,93902,"Health, Dental",3,No,6,6,3,0.7147964630668823,Female,50,Married,4.881740682151538,0
+56,Sales,Administrator,2015-10-22,Stay,,8,10,8,96761,"Health, 401k",6,Yes,7,9,3,0.8732872876086444,Female,30,Single,0.645210948579657,0
+57,Sales,Developer,2016-07-10,Stay,,7,10,6,93665,"Health, Dental",3,No,10,8,4,0.9794713489211267,Male,58,Divorced,1.5348416159715788,0
+58,Sales,Administrator,2016-05-17,Stay,,7,10,6,86605,"Health, Dental, 401k",1,No,7,5,4,0.8417891854109473,Male,41,Divorced,0.21232441086379672,0
+59,Finance,Administrator,2019-11-24,Stay,,4,8,8,102264,"Health, Dental, 401k",7,Yes,9,10,5,0.7687608021211377,Male,37,Widowed,0.8718992146100601,0
+60,Finance,Sales Rep,2017-01-25,Resign,Relocation,7,8,10,50227,"Health, 401k",1,Yes,8,10,3,0.9012821410052386,Male,40,Widowed,3.5978101631396093,1
+61,IT,Manager,2017-02-21,Stay,,7,8,7,77483,"Health, Dental, 401k",3,No,8,9,5,0.7802876464831506,Female,63,Married,4.110238171434776,0
+62,Finance,Administrator,2019-10-29,Stay,,4,8,6,110960,"Health, Dental",4,Yes,9,6,5,0.9745573136537111,Male,22,Widowed,0.37557923753038625,0
+63,HR,Sales Rep,2016-12-22,Resign,Better Opportunity,7,9,10,115176,"Health, Dental",7,No,9,8,3,0.8431136825582621,Female,22,Divorced,3.6732361032437044,1
+64,Finance,Administrator,2016-07-24,Stay,,7,7,10,64345,"Health, Dental",5,Yes,8,7,3,0.9353663464123474,Female,23,Divorced,2.1031212258403222,0
+65,Operations,Manager,2015-04-16,Stay,,8,8,5,62205,"Health, 401k",1,No,9,9,5,0.714741266430832,Male,32,Divorced,1.9914140533658324,0
+66,Sales,Developer,2021-09-28,Stay,,2,8,10,100701,"Health, Dental",6,No,7,8,5,0.9197466581592009,Male,52,Widowed,4.932858997676746,0
+67,IT,Analyst,2018-10-30,Stay,,5,9,7,67572,"Health, Dental",1,No,8,10,4,0.7443928357138476,Female,32,Divorced,1.8327133860489413,0
+68,Operations,Manager,2017-06-14,Stay,,6,6,6,53370,"Health, Dental, 401k",2,Yes,8,5,4,0.7653153619742744,Male,57,Single,0.5024274712986315,0
+69,Finance,Manager,2019-03-09,Stay,,5,9,6,98892,"Health, 401k",2,No,10,7,3,0.9583925170213534,Male,24,Single,0.9363098138321002,0
+70,Operations,Sales Rep,2015-05-05,Stay,,8,6,5,92264,"Health, 401k",1,No,7,7,5,0.7371775430931302,Female,23,Divorced,3.134015971447708,0
+71,Operations,Sales Rep,2019-09-03,Resign,Better Opportunity,4,10,8,104064,"Health, 401k",4,No,7,5,4,0.7884132164312418,Male,31,Married,3.6717233829033686,1
+72,Operations,Sales Rep,2020-08-12,Stay,,3,9,6,112428,"Health, 401k",7,No,6,10,3,0.8109721700073924,Male,64,Married,3.071255487411189,0
+73,Finance,Developer,2021-12-30,Stay,,2,10,10,116040,"Health, Dental, 401k",4,No,10,5,5,0.9730031704145381,Male,25,Divorced,3.780316292277951,0
+74,Operations,Sales Rep,2020-12-12,Resign,Personal Reasons,3,6,5,108540,"Health, 401k",6,Yes,9,5,3,0.7428668915741459,Female,58,Widowed,2.5106693108393485,1
+75,Operations,Manager,2021-11-11,Stay,,2,9,9,52650,"Health, 401k",6,No,8,10,3,0.8850804911256405,Male,35,Widowed,3.1702518419729744,0
+76,Operations,Sales Rep,2018-03-04,Stay,,6,6,8,102360,"Health, Dental",2,Yes,10,9,5,0.7608723291495894,Male,57,Single,0.01308650116681187,0
+77,HR,Administrator,2022-08-16,Stay,,1,6,7,73190,"Health, 401k",5,No,6,9,4,0.7866426839651494,Female,37,Widowed,0.11898460780608133,0
+78,Operations,Administrator,2016-07-28,Stay,,7,10,8,86334,"Health, 401k",1,No,6,8,3,0.8335180112301477,Male,31,Widowed,1.6738675875557796,0
+79,Finance,Analyst,2015-01-17,Stay,,9,6,6,101718,"Health, Dental, 401k",7,No,7,7,5,0.8641679732106755,Female,61,Married,1.3368806483268525,0
+80,IT,Administrator,2020-08-22,Stay,,3,7,6,82975,"Health, 401k",4,No,8,7,5,0.75261209104784,Male,40,Widowed,2.0631296026386265,0
+81,HR,Analyst,2016-07-08,Stay,,7,8,5,65299,"Health, 401k",4,Yes,6,10,4,0.8786565871317596,Female,24,Married,2.598594491178346,0
+82,Sales,Administrator,2017-02-09,Stay,,7,9,6,94149,"Health, Dental, 401k",6,No,9,7,3,0.8821733155735426,Male,63,Married,0.9493320517831588,0
+83,Sales,Developer,2016-07-20,Stay,,7,10,8,102544,"Health, Dental, 401k",7,Yes,7,10,4,0.8225605826190503,Male,26,Married,4.396198142390302,0
+84,Finance,Analyst,2016-10-22,Stay,,7,8,10,66612,"Health, 401k",1,Yes,10,6,4,0.7602160420744397,Female,36,Divorced,2.1992469144432736,0
+85,HR,Administrator,2017-12-13,Resign,Personal Reasons,6,10,5,67432,"Health, Dental, 401k",6,No,8,6,3,0.8001781829089389,Male,37,Divorced,2.455996352825165,1
+86,HR,Analyst,2017-10-08,Stay,,6,7,9,102265,"Health, 401k",5,No,7,5,5,0.7294109774983523,Male,42,Married,0.43682584864419227,0
+87,Sales,Analyst,2022-11-27,Stay,,1,8,9,101394,"Health, Dental",2,Yes,10,7,3,0.9234513261710738,Male,47,Divorced,1.2353017511024544,0
+88,IT,Administrator,2015-07-19,Stay,,8,9,10,72948,"Health, Dental, 401k",1,Yes,6,8,4,0.7043851900017262,Male,64,Married,3.9669688821589535,0
+89,Operations,Manager,2016-07-15,Resign,Better Opportunity,7,6,10,104850,"Health, Dental, 401k",5,Yes,6,8,5,0.7995372504369546,Female,40,Divorced,2.4355083394801795,1
+90,IT,Sales Rep,2021-10-26,Resign,Better Opportunity,2,6,9,110300,"Health, Dental, 401k",3,Yes,7,8,5,0.9773021536483473,Male,44,Married,1.28648724792513,1
+91,HR,Analyst,2018-04-01,Stay,,5,8,5,65167,"Health, 401k",3,Yes,6,6,4,0.7562557950190057,Female,42,Single,0.4300196881046814,0
+92,Finance,Analyst,2015-03-29,Stay,,8,10,8,80488,"Health, Dental",5,Yes,7,6,5,0.8570546631803777,Female,64,Married,4.155841015369361,0
+93,IT,Analyst,2015-02-07,Stay,,9,9,5,60159,"Health, Dental",6,Yes,9,9,3,0.7447734968867081,Male,24,Widowed,4.070129566850351,0
+94,IT,Sales Rep,2017-06-18,Stay,,6,6,10,64768,"Health, 401k",7,Yes,6,7,3,0.9849305214458873,Male,29,Widowed,2.0436078393344026,0
+95,HR,Analyst,2021-08-01,Stay,,2,8,7,64307,"Health, Dental, 401k",2,No,8,7,5,0.9461738416889313,Female,40,Divorced,0.8819352250835921,0
+96,Sales,Analyst,2015-04-02,Resign,Personal Reasons,8,8,5,104072,"Health, Dental",1,No,6,7,4,0.7937876424574837,Male,35,Widowed,2.2659879020130083,1
+97,HR,Administrator,2018-10-29,Resign,Personal Reasons,5,7,6,119807,"Health, Dental",7,Yes,8,9,4,0.9255837572942387,Female,23,Divorced,1.4342727027294773,1
+98,IT,Manager,2018-02-06,Stay,,6,9,9,83545,"Health, 401k",4,No,7,8,4,0.8702056734815861,Male,54,Married,2.5442714005182516,0
+99,IT,Developer,2017-04-29,Stay,,6,9,5,76441,"Health, Dental, 401k",1,Yes,8,8,4,0.7664956838902878,Female,25,Divorced,2.096552526937334,0
+100,Finance,Developer,2017-02-26,Stay,,7,10,7,61676,"Health, Dental, 401k",2,Yes,6,9,5,0.7403161436740823,Male,58,Single,2.7517172467629964,0
+101,IT,Sales Rep,2020-07-29,Stay,,3,10,6,103337,"Health, Dental",3,No,10,9,4,0.7747734252857039,Female,51,Widowed,3.2250854433538034,0
+102,Finance,Developer,2019-04-16,Resign,Better Opportunity,4,8,8,101524,"Health, Dental, 401k",7,Yes,7,7,4,0.888697178318187,Male,25,Divorced,1.263294780327483,1
+103,IT,Manager,2021-12-24,Stay,,2,7,5,70015,"Health, 401k",6,No,8,9,5,0.9864324872202437,Female,27,Single,2.175590530789412,0
+104,Sales,Developer,2016-08-19,Stay,,7,8,9,67825,"Health, 401k",1,No,6,10,5,0.93306258869256,Male,49,Married,2.706489319357217,0
+105,IT,Manager,2021-06-02,Resign,Relocation,2,10,6,115653,"Health, Dental",6,No,6,10,5,0.9710382611569814,Female,32,Divorced,0.780786360910769,1
+106,Finance,Manager,2016-08-10,Stay,,7,6,5,89221,"Health, 401k",5,No,9,7,3,0.7582235371981705,Male,28,Single,2.2149035129108263,0
+107,Finance,Administrator,2016-08-31,Resign,Better Opportunity,7,7,6,82503,"Health, Dental",1,Yes,9,5,3,0.9743768135325678,Male,34,Married,1.625491011697937,1
+108,Finance,Developer,2022-01-12,Stay,,2,9,6,79008,"Health, Dental, 401k",6,Yes,10,7,4,0.7254045937037414,Female,23,Married,3.7874747211486866,0
+109,IT,Analyst,2016-02-01,Stay,,8,6,6,97967,"Health, Dental",1,Yes,7,5,3,0.9832560643181214,Female,25,Widowed,1.8353732905484288,0
+110,Finance,Sales Rep,2016-11-25,Stay,,7,6,7,67729,"Health, 401k",7,Yes,9,6,3,0.7423646962174545,Male,30,Divorced,0.9922245491721071,0
+111,Operations,Analyst,2016-10-09,Stay,,7,9,5,76093,"Health, Dental",7,Yes,10,6,4,0.8084589687449629,Male,58,Widowed,1.0928554646033295,0
+112,Sales,Developer,2017-02-06,Stay,,7,8,10,96750,"Health, Dental, 401k",3,Yes,8,7,4,0.8036666280572081,Female,33,Single,1.9610586481374366,0
+113,IT,Developer,2015-06-25,Stay,,8,7,6,97269,"Health, 401k",3,Yes,7,6,3,0.7989571061683757,Female,39,Divorced,2.621446752726368,0
+114,Finance,Analyst,2018-09-08,Stay,,5,6,5,111445,"Health, Dental, 401k",4,Yes,7,7,5,0.9209846390908925,Female,62,Married,2.572379679045291,0
+115,Sales,Administrator,2018-07-28,Resign,Better Opportunity,5,8,6,52078,"Health, Dental",7,Yes,9,9,3,0.9518415952508414,Female,56,Married,2.2213979776211916,1
+116,IT,Developer,2015-06-25,Stay,,8,9,9,55783,"Health, Dental",3,Yes,7,9,3,0.871142013766765,Female,25,Single,3.522745256527489,0
+117,Sales,Administrator,2021-12-01,Resign,Relocation,2,8,5,70618,"Health, 401k",7,Yes,10,6,5,0.8638225145708773,Female,55,Widowed,2.0510520060497504,1
+118,Operations,Sales Rep,2015-08-28,Stay,,8,6,5,107903,"Health, Dental, 401k",3,No,7,6,4,0.7783923839486493,Female,41,Widowed,0.655341213472661,0
+119,IT,Developer,2020-01-06,Stay,,4,7,9,75597,"Health, Dental, 401k",1,No,6,7,5,0.9709975227007024,Male,25,Widowed,0.728226543933565,0
+120,Finance,Analyst,2019-09-25,Stay,,4,7,5,89302,"Health, Dental",3,No,10,10,4,0.8694332018695632,Male,51,Divorced,3.3703383738391097,0
+121,HR,Administrator,2016-07-02,Stay,,7,9,6,106646,"Health, 401k",7,Yes,10,5,5,0.8233936753647688,Male,48,Single,3.189466170603458,0
+122,Finance,Sales Rep,2017-06-26,Stay,,6,8,7,52467,"Health, Dental, 401k",1,No,7,5,3,0.867849782279953,Male,49,Single,3.4930010256359276,0
+123,IT,Manager,2015-02-16,Stay,,9,10,5,101435,"Health, Dental",1,No,7,10,3,0.7313400092349395,Female,61,Divorced,0.9863907108282643,0
+124,Finance,Sales Rep,2016-09-16,Resign,Better Opportunity,7,7,9,75488,"Health, Dental",5,Yes,9,10,4,0.7334302886319152,Male,27,Single,2.129823896294777,1
+125,HR,Administrator,2020-03-29,Stay,,3,10,7,64118,"Health, Dental",1,No,6,10,5,0.978185587483518,Female,44,Widowed,0.9723501874001839,0
+126,HR,Developer,2017-05-28,Stay,,6,8,5,92948,"Health, Dental, 401k",4,Yes,9,8,5,0.7655667215903348,Male,42,Divorced,1.541917409675958,0
+127,HR,Developer,2018-12-27,Stay,,5,8,10,95343,"Health, Dental, 401k",1,Yes,7,6,3,0.7810843435562865,Male,35,Widowed,1.1600694103061842,0
+128,Finance,Manager,2020-06-18,Resign,Better Opportunity,3,10,6,79256,"Health, Dental",1,No,6,6,4,0.8671726713458139,Female,48,Divorced,0.15162656288498333,1
+129,IT,Administrator,2018-04-04,Stay,,5,9,10,87283,"Health, Dental",2,Yes,8,7,5,0.8460585907288726,Female,53,Single,2.4095994495321578,0
+130,Finance,Developer,2015-03-15,Stay,,9,10,8,50327,"Health, Dental, 401k",4,No,9,6,3,0.8667198503555504,Female,60,Single,2.396271065663364,0
+131,HR,Developer,2019-05-10,Stay,,4,6,10,78759,"Health, 401k",2,Yes,7,10,4,0.8096287405119906,Female,27,Single,1.9373320421778502,0
+132,Operations,Administrator,2015-08-24,Resign,Better Opportunity,8,10,8,59067,"Health, 401k",5,No,10,7,5,0.8215645797494555,Male,60,Widowed,0.4873751063027226,1
+133,HR,Sales Rep,2021-01-04,Stay,,3,10,7,71352,"Health, Dental, 401k",1,No,10,6,3,0.7506396620446287,Male,31,Widowed,2.3425549430821055,0
+134,HR,Analyst,2016-07-03,Stay,,7,9,9,89204,"Health, Dental, 401k",7,No,7,7,5,0.8491051354434327,Female,61,Married,2.8651823502855516,0
+135,IT,Sales Rep,2022-04-20,Resign,Personal Reasons,1,6,5,70452,"Health, Dental",7,Yes,8,5,4,0.8268868354790524,Female,51,Widowed,1.4035935964890767,1
+136,Finance,Administrator,2019-02-06,Resign,Relocation,5,8,8,73761,"Health, 401k",4,No,8,9,3,0.9820251237816809,Male,30,Married,4.8120933574570515,1
+137,IT,Sales Rep,2016-10-01,Stay,,7,6,10,87800,"Health, Dental",4,No,6,9,3,0.7389361693006128,Male,54,Divorced,1.7092085773276917,0
+138,Finance,Developer,2017-07-30,Stay,,6,10,8,88312,"Health, Dental, 401k",5,No,10,10,3,0.884722129129814,Male,38,Single,0.5871821773061131,0
+139,HR,Administrator,2015-11-01,Stay,,8,8,5,83055,"Health, Dental",3,Yes,8,10,4,0.9899578145010183,Female,43,Widowed,1.0561793791787955,0
+140,HR,Developer,2017-11-10,Stay,,6,9,5,106918,"Health, 401k",4,Yes,9,6,3,0.7293885322075792,Male,53,Single,4.54277121418399,0
+141,HR,Developer,2016-09-29,Stay,,7,8,9,61040,"Health, Dental",3,Yes,8,10,3,0.9163355586760147,Male,64,Single,2.54636443807454,0
+142,Finance,Developer,2018-10-02,Stay,,5,9,5,80597,"Health, Dental",5,Yes,9,10,4,0.9596548107287521,Male,27,Married,4.983268596402233,0
+143,HR,Sales Rep,2019-05-01,Stay,,4,10,8,119864,"Health, Dental",7,Yes,10,5,3,0.7996698944794972,Female,25,Single,4.89503679174767,0
+144,IT,Analyst,2020-07-27,Stay,,3,6,5,95677,"Health, Dental, 401k",6,Yes,9,9,4,0.8708090283255261,Male,46,Divorced,2.5166171897322016,0
+145,IT,Manager,2021-01-04,Stay,,3,6,6,116520,"Health, 401k",6,Yes,7,9,5,0.7268890403580505,Female,52,Married,3.179016215942912,0
+146,HR,Analyst,2015-08-08,Stay,,8,6,8,100465,"Health, 401k",3,Yes,9,7,4,0.8011169945311843,Female,33,Married,1.7813530479469257,0
+147,Operations,Manager,2016-06-12,Stay,,7,6,7,86158,"Health, Dental",6,No,7,9,4,0.7746494345531516,Female,63,Divorced,3.906644284951884,0
+148,Finance,Administrator,2015-07-30,Stay,,8,6,9,117374,"Health, 401k",5,Yes,8,6,3,0.9056104083661888,Male,57,Widowed,2.519457967996361,0
+149,Operations,Analyst,2021-02-27,Stay,,3,7,8,107528,"Health, Dental, 401k",1,No,7,5,5,0.7167063331324173,Male,48,Married,2.8226836564771443,0
+150,HR,Manager,2016-10-14,Stay,,7,10,5,61586,"Health, Dental",1,No,10,7,4,0.8449686990607712,Male,24,Divorced,3.288478780416724,0
+151,Operations,Developer,2015-12-18,Stay,,8,6,9,68463,"Health, Dental, 401k",1,No,10,10,4,0.8661537522203681,Male,28,Widowed,2.9595808543530655,0
+152,Finance,Administrator,2019-05-25,Resign,Relocation,4,6,9,68000,"Health, Dental",2,No,9,8,4,0.9793763888984839,Male,33,Divorced,1.6252964482003884,1
+153,Finance,Analyst,2019-06-01,Resign,Relocation,4,9,10,99350,"Health, Dental",4,Yes,10,6,3,0.9763366569696069,Male,64,Married,1.23695853833427,1
+154,Operations,Sales Rep,2015-03-18,Stay,,9,10,7,81299,"Health, Dental, 401k",5,No,6,7,5,0.7019779201907957,Female,43,Single,0.8754071520192769,0
+155,Sales,Administrator,2017-08-21,Stay,,6,9,10,57984,"Health, Dental",3,No,9,7,5,0.8743093104857284,Male,43,Widowed,3.869960128066881,0
+156,Finance,Developer,2022-02-09,Resign,Better Opportunity,2,6,6,65210,"Health, Dental, 401k",5,Yes,6,10,3,0.8199364634533266,Male,38,Widowed,0.8557648499901627,1
+157,HR,Developer,2017-03-07,Stay,,7,10,6,81290,"Health, Dental",2,Yes,10,10,4,0.8608768371982455,Male,30,Divorced,2.396364705758616,0
+158,HR,Developer,2016-12-07,Stay,,7,10,5,66854,"Health, Dental, 401k",3,Yes,8,8,5,0.8948800187443628,Male,45,Single,1.648931290492544,0
+159,HR,Manager,2015-05-05,Resign,Relocation,8,10,6,95613,"Health, 401k",7,Yes,8,5,3,0.782313020039497,Male,61,Single,1.5121165284451166,1
+160,Sales,Analyst,2021-12-20,Resign,Personal Reasons,2,8,9,67125,"Health, 401k",7,No,10,8,4,0.9283452248915319,Male,43,Married,1.189078096857099,1
+161,HR,Administrator,2020-07-27,Stay,,3,7,10,54560,"Health, Dental",2,Yes,8,8,5,0.9761558525956091,Male,22,Divorced,0.09558576139089892,0
+162,Operations,Analyst,2019-09-26,Stay,,4,7,5,60081,"Health, 401k",3,No,8,6,4,0.9666358229687826,Female,59,Married,2.3315168077132853,0
+163,Sales,Analyst,2020-04-03,Stay,,3,6,6,72164,"Health, Dental, 401k",4,No,10,6,3,0.9266028520395232,Female,33,Married,1.1321864727664621,0
+164,Finance,Manager,2019-08-23,Stay,,4,7,5,75086,"Health, Dental, 401k",1,No,10,9,3,0.857336975241308,Male,57,Married,3.6639599458251633,0
+165,Sales,Manager,2015-07-29,Stay,,8,10,9,106930,"Health, Dental, 401k",1,Yes,6,7,4,0.8455577590462005,Male,56,Widowed,4.986171464961185,0
+166,HR,Developer,2016-10-12,Stay,,7,8,10,112909,"Health, Dental, 401k",4,No,7,6,3,0.9234995910574548,Male,48,Divorced,3.137774792196714,0
+167,HR,Analyst,2016-11-12,Stay,,7,7,9,69254,"Health, Dental",6,No,6,7,4,0.9318190347985484,Female,54,Widowed,2.8485850989945547,0
+168,Operations,Manager,2022-12-06,Stay,,1,7,8,73392,"Health, Dental, 401k",4,Yes,9,8,3,0.7036358196965039,Female,55,Single,3.933003757554367,0
+169,Finance,Developer,2020-12-04,Stay,,3,8,6,108865,"Health, Dental",6,Yes,9,10,3,0.7113483535673565,Male,44,Single,0.2815484113451261,0
+170,Finance,Administrator,2021-09-21,Stay,,2,9,6,88704,"Health, 401k",1,No,8,6,3,0.8432680290465615,Male,41,Married,2.073195851554263,0
+171,Sales,Manager,2020-11-19,Resign,Relocation,3,6,7,114022,"Health, 401k",5,Yes,9,6,4,0.9599069198423902,Male,62,Divorced,1.8299972508126205,1
+172,HR,Manager,2018-01-09,Resign,Personal Reasons,6,10,6,89487,"Health, 401k",3,Yes,8,8,5,0.7645019064692065,Male,60,Widowed,4.985943945735528,1
+173,HR,Administrator,2019-09-06,Stay,,4,8,5,102860,"Health, 401k",5,No,10,7,5,0.7430730292728113,Female,62,Married,3.4933701385644866,0
+174,Sales,Administrator,2020-12-08,Stay,,3,9,5,95558,"Health, Dental, 401k",5,Yes,7,7,5,0.9799486754590504,Female,24,Married,3.538413204310977,0
+175,IT,Manager,2019-06-22,Stay,,4,6,10,64383,"Health, Dental, 401k",4,No,10,10,3,0.9673337021453485,Female,50,Divorced,1.8780288214941083,0
+176,HR,Administrator,2016-07-24,Resign,Relocation,7,9,9,72569,"Health, Dental",1,No,10,10,4,0.7806022826336395,Female,54,Single,4.107566955479866,1
+177,Finance,Administrator,2017-02-17,Stay,,7,6,5,77895,"Health, Dental, 401k",7,Yes,10,5,3,0.9520854971071631,Female,29,Married,1.760110066664084,0
+178,Sales,Developer,2020-12-31,Stay,,3,7,7,86949,"Health, 401k",3,Yes,8,5,4,0.9271030407112013,Male,37,Single,0.21857616813867387,0
+179,Sales,Manager,2017-06-13,Stay,,6,8,9,94496,"Health, Dental",6,No,8,5,3,0.9986173125974948,Male,53,Divorced,1.6562391813267752,0
+180,Operations,Administrator,2019-01-30,Resign,Better Opportunity,5,6,9,73066,"Health, 401k",7,No,7,7,5,0.7490123111061167,Female,52,Divorced,1.767630090821961,1
+181,HR,Developer,2018-09-24,Stay,,5,8,9,66133,"Health, Dental, 401k",1,No,10,8,5,0.9692180867799298,Male,43,Divorced,3.687080059656926,0
+182,HR,Manager,2019-06-11,Resign,Relocation,4,8,10,67323,"Health, Dental",6,No,7,10,5,0.7170941061684789,Female,39,Single,4.457136363011442,1
+183,Finance,Manager,2022-11-20,Stay,,1,9,6,98022,"Health, Dental",1,Yes,8,10,5,0.901919393944675,Female,35,Single,2.744190925040027,0
+184,IT,Manager,2022-08-30,Stay,,1,10,5,51609,"Health, Dental, 401k",1,No,10,9,4,0.9007473414667857,Male,56,Married,0.8476206838008216,0
+185,Finance,Administrator,2017-10-14,Stay,,6,9,6,106107,"Health, Dental",4,No,7,9,3,0.9747081848316279,Female,49,Widowed,0.10670338104807997,0
+186,IT,Administrator,2019-08-10,Stay,,4,9,8,96399,"Health, Dental",1,Yes,9,9,5,0.768362657160099,Male,30,Single,3.834206793385435,0
+187,Operations,Analyst,2018-07-25,Stay,,5,10,9,57096,"Health, Dental",1,Yes,10,10,3,0.7514897214143106,Male,58,Married,2.724665940114248,0
+188,Finance,Developer,2018-10-17,Stay,,5,10,8,85481,"Health, Dental, 401k",6,Yes,9,6,3,0.8540534195049803,Male,42,Widowed,2.618772810587319,0
+189,Finance,Analyst,2015-11-02,Stay,,8,9,6,84264,"Health, Dental, 401k",6,Yes,9,9,3,0.9857715226252599,Female,58,Married,3.404430279632818,0
+190,HR,Developer,2017-04-08,Stay,,6,8,5,104469,"Health, 401k",3,No,6,9,5,0.7836598058466916,Female,48,Married,1.617162150253607,0
+191,Finance,Sales Rep,2015-05-30,Stay,,8,7,9,67094,"Health, Dental",7,Yes,10,10,5,0.9389994864043839,Female,59,Widowed,4.451137666067375,0
+192,HR,Analyst,2017-05-19,Stay,,6,10,8,75741,"Health, Dental",4,No,7,8,4,0.7959826457276634,Female,56,Widowed,0.5766777789770577,0
+193,Operations,Manager,2015-04-14,Stay,,8,7,10,88156,"Health, Dental",5,Yes,7,10,4,0.7765365494226477,Female,32,Widowed,1.006472913513694,0
+194,IT,Sales Rep,2019-10-26,Resign,Better Opportunity,4,8,8,52644,"Health, 401k",2,Yes,7,5,4,0.9052317120377398,Female,53,Married,4.050632805849177,1
+195,Finance,Sales Rep,2021-10-01,Stay,,2,10,9,106382,"Health, 401k",6,No,9,8,5,0.9314217982253308,Male,42,Divorced,4.091505670767964,0
+196,Operations,Sales Rep,2019-12-26,Stay,,4,6,7,95824,"Health, 401k",1,No,10,6,5,0.7039190061990677,Male,37,Widowed,0.20181728618501538,0
+197,HR,Developer,2019-04-11,Resign,Relocation,4,6,9,84323,"Health, 401k",1,Yes,6,5,3,0.8750802573554168,Female,64,Divorced,3.0198983761502483,1
+198,IT,Administrator,2021-09-04,Stay,,2,9,10,79433,"Health, 401k",3,Yes,8,7,5,0.8592709659511436,Male,45,Married,3.4388256733429468,0
+199,Finance,Administrator,2020-04-06,Stay,,3,7,10,100811,"Health, Dental",5,No,6,7,5,0.8167021897249438,Male,33,Widowed,0.8991399680805517,0
+200,Finance,Sales Rep,2018-07-05,Stay,,5,6,8,103633,"Health, 401k",2,Yes,7,6,5,0.9355953190513703,Female,43,Widowed,2.013632178433662,0
+201,Sales,Administrator,2018-06-01,Stay,,5,9,6,82286,"Health, Dental",3,Yes,6,8,3,0.8067762188025744,Male,32,Married,3.199386301383691,0
+202,Finance,Manager,2019-08-27,Stay,,4,9,6,59719,"Health, 401k",7,No,9,8,4,0.8632084281752036,Male,23,Widowed,0.3673696208390542,0
+203,Operations,Administrator,2017-05-02,Stay,,6,9,8,88637,"Health, 401k",2,No,7,7,5,0.8283574674099856,Male,25,Widowed,2.781764157485773,0
+204,Finance,Developer,2015-12-04,Stay,,8,8,6,100201,"Health, Dental, 401k",3,Yes,6,8,5,0.8344155099979333,Male,58,Married,2.2205057276705817,0
+205,Finance,Sales Rep,2021-06-20,Resign,Relocation,2,7,6,90465,"Health, Dental, 401k",3,No,6,7,5,0.8456852655721508,Female,55,Single,1.894705787471167,1
+206,Sales,Analyst,2015-07-13,Stay,,8,10,7,72440,"Health, Dental",6,No,8,8,5,0.7468543126951899,Female,26,Single,1.364105471798756,0
+207,Sales,Manager,2015-12-13,Stay,,8,9,8,113771,"Health, Dental",7,Yes,7,6,5,0.9410376652812802,Male,30,Single,3.7794066627551355,0
+208,Sales,Analyst,2021-11-02,Resign,Better Opportunity,2,10,5,82010,"Health, Dental, 401k",4,No,8,8,4,0.7871777210783404,Female,25,Single,3.2310541919758173,1
+209,Finance,Sales Rep,2019-10-17,Stay,,4,6,7,61528,"Health, Dental",3,Yes,7,8,5,0.8548887397372029,Male,57,Divorced,2.9158292490408675,0
+210,IT,Sales Rep,2017-06-18,Resign,Better Opportunity,6,8,8,68161,"Health, Dental",6,Yes,8,10,4,0.7819204838496775,Female,37,Single,3.8004297864858523,1
+211,IT,Analyst,2015-05-06,Stay,,8,10,6,62524,"Health, 401k",5,No,6,8,5,0.957785005332894,Female,52,Single,0.3218572195629321,0
+212,Operations,Sales Rep,2021-08-23,Stay,,2,9,6,86559,"Health, Dental, 401k",4,Yes,9,9,4,0.9495061096257631,Male,62,Single,1.1406687017685468,0
+213,Finance,Sales Rep,2020-08-15,Resign,Relocation,3,8,5,87086,"Health, 401k",2,No,8,9,3,0.9851859361639892,Male,39,Divorced,2.2734729450074,1
+214,Sales,Sales Rep,2016-09-25,Stay,,7,9,6,81923,"Health, 401k",7,Yes,7,10,5,0.8092792342724101,Male,55,Widowed,2.62420985712773,0
+215,IT,Administrator,2019-06-03,Stay,,4,8,5,60724,"Health, Dental, 401k",7,No,10,7,4,0.9660860913572755,Male,40,Single,2.75436396516809,0
+216,Finance,Administrator,2019-01-23,Stay,,5,10,6,52911,"Health, Dental, 401k",6,Yes,10,6,3,0.9576572341587426,Male,25,Married,2.562054197765409,0
+217,Sales,Developer,2022-06-11,Resign,Better Opportunity,1,10,9,87027,"Health, 401k",4,Yes,8,6,4,0.8721412925250356,Male,43,Divorced,1.8847899803291812,1
+218,Operations,Analyst,2017-04-22,Stay,,6,6,9,72985,"Health, Dental",6,No,6,9,3,0.7442723337133922,Male,44,Divorced,0.19806745089358313,0
+219,IT,Manager,2018-10-24,Stay,,5,7,6,106713,"Health, Dental",2,Yes,8,7,3,0.9112445612850556,Male,38,Widowed,4.332560651345368,0
+220,IT,Analyst,2022-11-04,Stay,,1,9,5,98912,"Health, Dental, 401k",2,Yes,9,10,4,0.98343635770994,Female,36,Divorced,1.7414996487643415,0
+221,HR,Analyst,2019-04-19,Stay,,4,9,5,106423,"Health, 401k",2,Yes,7,10,3,0.9457915255508842,Female,47,Widowed,3.055636918420902,0
+222,Sales,Developer,2015-04-27,Stay,,8,6,7,101981,"Health, Dental, 401k",3,Yes,10,6,4,0.7229593181888148,Male,35,Divorced,3.1549959870327573,0
+223,HR,Administrator,2018-08-24,Stay,,5,8,9,91840,"Health, Dental, 401k",6,Yes,7,10,4,0.7067570398552485,Male,25,Married,3.5268395024155437,0
+224,Operations,Manager,2016-09-01,Resign,Better Opportunity,7,8,10,87416,"Health, Dental",5,Yes,7,6,3,0.8381907738563084,Female,47,Single,2.9300739756221903,1
+225,HR,Manager,2016-09-13,Stay,,7,10,10,111877,"Health, 401k",4,Yes,8,10,4,0.9739026179180086,Male,39,Married,3.5127304509726196,0
+226,Finance,Developer,2021-01-29,Stay,,3,10,7,98019,"Health, 401k",2,No,6,8,4,0.9167088383235475,Female,34,Single,4.379798205840285,0
+227,IT,Sales Rep,2018-01-01,Resign,Relocation,6,9,5,94922,"Health, 401k",5,No,7,9,4,0.9998156749317039,Female,51,Married,4.917344757197924,1
+228,HR,Analyst,2015-10-30,Resign,Relocation,8,7,6,73180,"Health, Dental",7,No,6,6,5,0.8881895800805952,Male,47,Single,3.790969235416768,1
+229,HR,Analyst,2020-10-28,Resign,Relocation,3,9,9,57177,"Health, 401k",2,No,9,9,4,0.9646689946385234,Female,27,Married,3.748840063833765,1
+230,Sales,Manager,2015-11-05,Stay,,8,8,8,103283,"Health, Dental, 401k",2,Yes,9,8,5,0.9436075117151914,Male,30,Single,4.455603943704675,0
+231,Sales,Analyst,2017-07-16,Stay,,6,7,6,78195,"Health, Dental",1,Yes,6,9,3,0.8615826731224663,Female,22,Married,2.826295333053256,0
+232,HR,Manager,2022-12-19,Stay,,1,7,5,75050,"Health, Dental, 401k",2,No,8,10,5,0.7271351635827371,Female,24,Divorced,4.163898816882366,0
+233,Finance,Administrator,2016-06-10,Stay,,7,6,10,97392,"Health, Dental, 401k",1,Yes,8,8,5,0.739249912480339,Female,31,Divorced,3.599561733223493,0
+234,HR,Administrator,2018-05-17,Resign,Personal Reasons,5,10,9,85579,"Health, 401k",1,No,8,10,5,0.944644574033946,Male,33,Married,3.2120653552022924,1
+235,Finance,Manager,2018-03-01,Resign,Personal Reasons,6,7,10,92316,"Health, Dental",6,No,10,6,5,0.8108121671377027,Female,53,Widowed,4.871194242012459,1
+236,HR,Developer,2018-07-03,Stay,,5,9,5,72947,"Health, Dental, 401k",2,No,9,5,5,0.8807922901896377,Male,44,Widowed,0.0012852816566344405,0
+237,Operations,Analyst,2017-10-09,Stay,,6,8,10,111035,"Health, 401k",5,No,9,6,3,0.7875134882694446,Female,55,Married,2.5648059640961094,0
+238,Operations,Manager,2015-01-18,Stay,,9,10,10,110164,"Health, Dental, 401k",6,Yes,7,6,5,0.9674587704213742,Male,42,Divorced,2.7865042210635096,0
+239,HR,Developer,2017-09-15,Stay,,6,9,5,115002,"Health, Dental, 401k",5,No,6,8,4,0.9747989111197521,Female,31,Single,1.0138623468669699,0
+240,Sales,Administrator,2018-10-15,Resign,Relocation,5,8,8,89094,"Health, 401k",3,Yes,10,6,3,0.9867116022030089,Male,44,Widowed,3.016636259476923,1
+241,Finance,Analyst,2020-06-28,Resign,Relocation,3,9,5,113541,"Health, Dental, 401k",1,No,10,9,5,0.9785910264953879,Female,49,Married,1.1424636144484372,1
+242,Operations,Analyst,2020-01-02,Stay,,4,9,10,113491,"Health, Dental",7,No,7,6,3,0.8692051072449869,Female,31,Widowed,1.4575796436773354,0
+243,Finance,Administrator,2020-01-11,Stay,,4,10,5,117884,"Health, 401k",5,Yes,6,9,3,0.8805639694416727,Female,41,Single,4.862046414576932,0
+244,IT,Sales Rep,2019-11-15,Stay,,4,8,5,75009,"Health, Dental",7,Yes,8,5,5,0.9886743077372538,Female,45,Married,2.512021861489026,0
+245,Sales,Manager,2019-06-23,Stay,,4,9,8,51705,"Health, Dental",5,Yes,7,10,4,0.8117903771533626,Male,46,Single,0.6060175014902575,0
+246,Sales,Developer,2021-04-10,Stay,,2,7,7,82852,"Health, Dental",3,No,8,9,3,0.8892510950998727,Female,47,Widowed,4.059232380875139,0
+247,IT,Developer,2020-11-14,Stay,,3,10,5,118189,"Health, Dental, 401k",1,Yes,8,9,3,0.8319154846088176,Female,28,Divorced,0.4228219194978122,0
+248,Sales,Sales Rep,2016-08-26,Resign,Personal Reasons,7,6,5,109721,"Health, 401k",7,No,8,8,4,0.8034165306734955,Male,57,Married,3.6833657931695414,1
+249,Operations,Developer,2019-03-17,Resign,Better Opportunity,5,7,6,58133,"Health, Dental, 401k",2,Yes,8,8,4,0.9788326779595855,Male,38,Widowed,1.5097479173363086,1
+250,IT,Developer,2017-07-16,Stay,,6,8,9,58386,"Health, Dental",7,No,9,8,4,0.8708932497701093,Female,53,Married,4.227871977893895,0
+251,Operations,Analyst,2016-12-25,Stay,,7,7,9,62927,"Health, 401k",7,No,7,9,4,0.8395318338699373,Male,55,Single,0.5457793387350945,0
+252,Operations,Manager,2020-12-20,Stay,,3,9,9,69749,"Health, Dental, 401k",7,Yes,10,6,4,0.7162386541305257,Female,27,Married,2.4731819541240005,0
+253,IT,Analyst,2019-03-04,Resign,Relocation,5,6,10,92998,"Health, Dental, 401k",1,No,6,8,4,0.7466466197121546,Female,35,Divorced,0.3641171098331847,1
+254,Finance,Administrator,2016-08-10,Stay,,7,10,9,91227,"Health, Dental, 401k",6,No,9,6,3,0.8622230370292078,Male,33,Married,4.307925555592983,0
+255,Finance,Analyst,2015-10-23,Stay,,8,6,9,89543,"Health, Dental, 401k",6,Yes,7,6,4,0.9983854961846474,Male,27,Single,4.669668570516686,0
+256,Sales,Sales Rep,2022-01-13,Resign,Better Opportunity,2,7,6,69026,"Health, 401k",4,No,8,6,4,0.8378309376263993,Female,32,Divorced,3.539909814657625,1
+257,IT,Manager,2019-10-26,Stay,,4,6,8,113113,"Health, 401k",5,No,9,10,4,0.8875574809254649,Female,40,Married,4.3266308822525135,0
+258,Operations,Sales Rep,2019-02-26,Stay,,5,8,9,112743,"Health, 401k",3,No,6,10,3,0.9555077286407481,Male,24,Widowed,0.7913624605467912,0
+259,Finance,Manager,2019-06-25,Stay,,4,9,6,56070,"Health, 401k",1,No,8,8,3,0.9755191320297592,Female,38,Married,2.2813980671924234,0
+260,Finance,Manager,2015-02-05,Stay,,9,9,6,58083,"Health, Dental, 401k",3,No,7,6,5,0.8098390215310672,Male,22,Divorced,2.893316561454387,0
+261,Sales,Manager,2017-09-23,Stay,,6,8,5,110794,"Health, Dental",4,Yes,9,5,4,0.7490781367230971,Male,35,Married,4.818463765556825,0
+262,Sales,Developer,2015-05-29,Stay,,8,9,9,82796,"Health, Dental, 401k",2,No,8,9,4,0.9913908930296607,Male,44,Married,2.953580414868704,0
+263,Sales,Analyst,2020-05-29,Stay,,3,10,10,110508,"Health, Dental, 401k",2,No,9,8,3,0.8582469084318451,Male,55,Single,2.2296440576536254,0
+264,Sales,Developer,2020-05-15,Stay,,3,9,6,105601,"Health, 401k",5,Yes,8,10,3,0.9657337785429667,Male,22,Single,4.593333052311549,0
+265,IT,Developer,2019-08-20,Stay,,4,9,6,78271,"Health, Dental, 401k",1,No,8,7,3,0.7895518537060927,Female,64,Divorced,3.420214620934366,0
+266,HR,Analyst,2015-11-28,Stay,,8,7,6,80311,"Health, Dental, 401k",4,Yes,8,6,5,0.7265990220084593,Male,31,Married,4.618862235175633,0
+267,Finance,Sales Rep,2019-10-20,Stay,,4,6,6,55151,"Health, Dental, 401k",1,Yes,9,9,5,0.963520645479283,Female,47,Married,0.343132786210506,0
+268,Sales,Manager,2018-03-19,Stay,,6,9,7,55185,"Health, 401k",1,No,10,7,3,0.8249690146078587,Female,62,Widowed,0.3982979652860924,0
+269,Operations,Sales Rep,2018-07-09,Resign,Relocation,5,7,6,60490,"Health, 401k",3,Yes,6,7,5,0.8321732708976055,Female,24,Divorced,4.206459791034921,1
+270,Finance,Sales Rep,2016-10-21,Stay,,7,8,8,97138,"Health, Dental, 401k",5,No,9,9,4,0.9950615628548267,Female,36,Single,4.1380515846835095,0
+271,Sales,Administrator,2021-12-24,Stay,,2,10,8,60621,"Health, Dental",7,Yes,7,10,5,0.8226528056939635,Female,50,Divorced,0.656812009205418,0
+272,Sales,Developer,2021-05-08,Stay,,2,8,10,99252,"Health, 401k",5,No,6,5,5,0.8721038803273806,Male,43,Single,2.8086543138127187,0
+273,IT,Manager,2016-06-08,Resign,Personal Reasons,7,10,9,79994,"Health, 401k",7,No,6,10,5,0.9211873425202841,Male,24,Single,1.6146231677809912,1
+274,HR,Analyst,2019-06-17,Stay,,4,7,9,58395,"Health, Dental",7,Yes,8,9,5,0.7675595309586061,Male,44,Widowed,1.4753301931736966,0
+275,HR,Sales Rep,2015-02-18,Resign,Relocation,9,8,10,79915,"Health, Dental",1,No,7,6,3,0.7809093762480507,Male,30,Divorced,0.7804025822207372,1
+276,IT,Administrator,2017-06-03,Stay,,6,7,9,65043,"Health, Dental, 401k",1,No,9,6,3,0.9216476160767331,Male,38,Divorced,1.73930930346516,0
+277,Operations,Administrator,2018-10-11,Stay,,5,10,6,104573,"Health, Dental, 401k",4,Yes,8,6,4,0.942143435533793,Male,57,Single,4.194533685098574,0
+278,HR,Sales Rep,2019-05-18,Stay,,4,9,9,91740,"Health, 401k",6,No,7,7,5,0.7601789377951507,Female,49,Married,4.378338680268507,0
+279,Operations,Sales Rep,2022-12-15,Stay,,1,7,9,79684,"Health, Dental",1,No,7,8,3,0.7926217339986991,Male,56,Widowed,2.958503600415308,0
+280,Finance,Administrator,2019-06-04,Stay,,4,6,8,71863,"Health, Dental, 401k",5,No,6,5,5,0.7026163892234706,Female,29,Divorced,2.0635765744001717,0
+281,Finance,Developer,2020-01-01,Stay,,4,9,10,52537,"Health, Dental",3,Yes,7,9,3,0.8154498137356871,Female,51,Single,0.7279021991690554,0
+282,HR,Administrator,2021-10-30,Resign,Personal Reasons,2,9,9,58278,"Health, Dental",4,Yes,10,7,3,0.9703344777003828,Female,32,Widowed,0.7428129732103361,1
+283,HR,Administrator,2018-11-20,Resign,Personal Reasons,5,6,5,54924,"Health, 401k",3,Yes,7,6,5,0.8204021398102519,Male,51,Widowed,4.81636174743169,1
+284,Finance,Administrator,2022-12-26,Stay,,1,8,6,93059,"Health, Dental, 401k",1,Yes,10,9,3,0.9277044759821809,Female,29,Married,4.459222803631631,0
+285,Finance,Developer,2020-01-31,Resign,Relocation,4,6,6,61181,"Health, 401k",7,No,8,10,4,0.7172161146425315,Female,29,Single,4.79125516460108,1
+286,HR,Developer,2016-11-05,Stay,,7,9,6,93328,"Health, Dental",4,No,9,5,4,0.8763684242394173,Female,23,Divorced,2.6974950828838584,0
+287,Finance,Developer,2018-03-13,Stay,,6,8,5,69748,"Health, 401k",6,Yes,9,8,4,0.9862131741977898,Male,47,Divorced,4.942377233643,0
+288,HR,Analyst,2021-01-14,Stay,,3,8,7,98827,"Health, 401k",7,No,10,6,4,0.9953152114506949,Female,35,Single,3.4816104773439864,0
+289,IT,Analyst,2019-02-28,Stay,,5,10,10,54886,"Health, Dental",3,No,6,8,4,0.873521164692575,Female,35,Single,3.5442376935794457,0
+290,Sales,Analyst,2018-01-15,Stay,,6,6,7,66194,"Health, Dental, 401k",4,No,9,7,5,0.7042956838344243,Male,22,Married,4.469945272839498,0
+291,HR,Analyst,2016-08-26,Stay,,7,9,8,80743,"Health, Dental",2,Yes,7,10,4,0.9519686928924092,Female,63,Divorced,3.8204218041390634,0
+292,Operations,Manager,2019-01-15,Stay,,5,7,7,50161,"Health, 401k",2,No,9,8,5,0.9204145556837362,Female,41,Single,3.706405211574904,0
+293,HR,Manager,2017-08-08,Stay,,6,10,5,69829,"Health, 401k",6,No,8,6,5,0.7074043548216282,Female,25,Divorced,0.330079648612856,0
+294,Finance,Manager,2019-07-05,Stay,,4,7,8,98443,"Health, Dental, 401k",5,Yes,7,6,3,0.9269985660000228,Female,61,Divorced,4.052180884908793,0
+295,Operations,Sales Rep,2017-11-05,Resign,Personal Reasons,6,8,6,64799,"Health, Dental",7,Yes,8,5,4,0.9158495000813256,Male,23,Married,1.1067056599676657,1
+296,Operations,Manager,2020-06-24,Stay,,3,9,9,56222,"Health, 401k",4,No,9,7,3,0.7289778382735472,Male,39,Divorced,3.367409462566303,0
+297,Sales,Sales Rep,2019-11-11,Stay,,4,9,10,69723,"Health, Dental",6,No,6,5,5,0.8609131738483494,Female,56,Widowed,4.8303419636160925,0
+298,HR,Administrator,2021-05-19,Stay,,2,6,6,116406,"Health, Dental, 401k",4,No,7,8,3,0.8646627932438852,Female,64,Married,3.6645450288567845,0
+299,IT,Manager,2017-05-01,Resign,Personal Reasons,6,9,9,52716,"Health, Dental",5,No,8,9,4,0.9684564893829383,Female,27,Divorced,3.074685334256299,1
+300,Operations,Developer,2021-09-08,Stay,,2,9,9,91187,"Health, Dental",2,No,10,6,3,0.8329366718303683,Male,24,Single,0.761982633065062,0
+301,Operations,Analyst,2022-01-17,Stay,,2,6,6,82554,"Health, 401k",4,No,8,5,5,0.8677472680048255,Male,33,Widowed,1.3968616270530954,0
+302,IT,Sales Rep,2019-05-16,Resign,Personal Reasons,4,6,10,119293,"Health, Dental",6,No,10,10,5,0.865283932380714,Female,27,Divorced,4.212550684239923,1
+303,Operations,Administrator,2022-10-14,Stay,,1,9,10,67522,"Health, Dental, 401k",6,Yes,10,6,5,0.8558127809736917,Male,32,Widowed,4.774394275586854,0
+304,Finance,Manager,2020-07-01,Stay,,3,9,5,86030,"Health, 401k",6,Yes,6,10,3,0.9559475446304331,Male,26,Single,1.446384648616597,0
+305,IT,Analyst,2016-08-03,Resign,Personal Reasons,7,10,6,84213,"Health, Dental, 401k",5,Yes,10,9,4,0.9839887958716693,Male,54,Widowed,1.8223665004095508,1
+306,Finance,Developer,2019-09-11,Stay,,4,7,5,90671,"Health, Dental",5,Yes,7,6,3,0.9744765965860667,Male,41,Married,2.721458992102317,0
+307,HR,Administrator,2022-09-23,Resign,Better Opportunity,1,10,7,118151,"Health, Dental",4,Yes,9,8,5,0.7589354930658839,Male,44,Divorced,1.1406003933849573,1
+308,HR,Developer,2015-12-16,Stay,,8,10,7,93810,"Health, 401k",2,No,8,9,3,0.9603999549904877,Female,26,Divorced,3.219122291944087,0
+309,HR,Manager,2022-06-25,Stay,,1,8,6,69182,"Health, Dental",6,No,7,7,4,0.7953264461531447,Male,43,Widowed,0.7723509534873335,0
+310,Finance,Sales Rep,2015-09-16,Stay,,8,9,5,57571,"Health, Dental",6,No,10,5,5,0.703843450649978,Male,57,Married,0.9625720243097569,0
+311,Operations,Administrator,2018-10-11,Stay,,5,10,10,54709,"Health, Dental, 401k",3,Yes,7,6,4,0.8599372835461613,Male,34,Married,3.8153869484812137,0
+312,Operations,Manager,2017-09-14,Resign,Personal Reasons,6,9,6,114535,"Health, Dental",2,Yes,7,8,4,0.7282819481306224,Female,53,Single,0.7875982144185806,1
+313,IT,Manager,2019-01-02,Stay,,5,10,10,87968,"Health, 401k",6,No,6,5,3,0.8497924718437353,Female,54,Single,2.4675643276095425,0
+314,IT,Sales Rep,2017-06-02,Stay,,6,8,5,118449,"Health, 401k",4,No,10,6,5,0.9219326279592659,Female,49,Widowed,4.220494310707062,0
+315,Operations,Sales Rep,2017-04-11,Resign,Personal Reasons,6,9,5,51975,"Health, Dental, 401k",4,No,7,8,4,0.9537325243532973,Female,35,Divorced,2.2513503417563454,1
+316,Sales,Manager,2020-07-22,Stay,,3,7,6,119150,"Health, Dental, 401k",7,No,8,9,5,0.7968440112345335,Male,52,Divorced,0.11962616074840338,0
+317,Finance,Sales Rep,2016-05-23,Stay,,7,8,10,117675,"Health, Dental",4,No,6,7,5,0.9516411576644388,Male,40,Single,0.6872731415325622,0
+318,Finance,Administrator,2021-08-09,Stay,,2,6,5,94536,"Health, Dental",7,No,7,6,3,0.7171390445666309,Female,33,Married,1.5431331042549594,0
+319,Finance,Sales Rep,2016-10-07,Stay,,7,7,10,56374,"Health, Dental, 401k",2,No,8,10,3,0.8846864305173701,Male,54,Single,2.089498993038314,0
+320,Sales,Administrator,2020-11-19,Stay,,3,10,5,52435,"Health, 401k",3,No,8,6,3,0.8048709231426048,Female,33,Married,0.1356376562848599,0
+321,IT,Manager,2015-09-06,Resign,Better Opportunity,8,9,8,73937,"Health, Dental, 401k",3,Yes,10,6,5,0.8646256130806961,Male,40,Divorced,4.999482058352369,1
+322,IT,Analyst,2021-09-04,Stay,,2,9,8,88414,"Health, 401k",7,No,7,7,5,0.7575843377039918,Male,50,Widowed,4.386474834413912,0
+323,Finance,Manager,2021-07-26,Resign,Better Opportunity,2,7,10,73451,"Health, 401k",5,Yes,10,6,5,0.7693705534128341,Female,40,Single,1.3683869749092454,1
+324,IT,Manager,2017-03-09,Stay,,7,6,9,111056,"Health, Dental, 401k",7,Yes,8,7,3,0.9509157166142996,Male,43,Divorced,1.5894461009631162,0
+325,Finance,Manager,2015-10-13,Stay,,8,9,5,56990,"Health, 401k",5,No,7,10,5,0.9392781501875271,Female,25,Single,4.8706587549818785,0
+326,Operations,Administrator,2021-02-26,Stay,,3,6,10,113162,"Health, 401k",1,No,10,7,3,0.9562980662916356,Male,51,Divorced,1.0505524616224216,0
+327,Operations,Analyst,2016-08-31,Stay,,7,6,10,54364,"Health, Dental",1,No,10,9,5,0.8435163908503047,Male,55,Single,3.609990577900003,0
+328,IT,Sales Rep,2020-02-28,Stay,,4,8,9,58014,"Health, Dental",1,No,9,10,4,0.898639470784813,Female,64,Married,1.5188269589703856,0
+329,Sales,Developer,2017-08-28,Stay,,6,7,7,89517,"Health, 401k",1,Yes,6,5,3,0.8374574876186257,Female,51,Widowed,2.616644359479698,0
+330,IT,Administrator,2018-12-04,Stay,,5,7,10,68419,"Health, Dental",3,Yes,8,8,4,0.7747372473125506,Female,33,Widowed,4.609449129094129,0
+331,HR,Manager,2019-12-15,Stay,,4,7,5,112838,"Health, Dental, 401k",7,Yes,8,10,3,0.7018593136169015,Female,41,Single,0.6871921864879804,0
+332,Finance,Manager,2020-10-11,Stay,,3,10,7,79563,"Health, Dental",4,Yes,10,7,4,0.9759420267246265,Male,40,Married,2.5878242797583644,0
+333,HR,Developer,2016-12-17,Stay,,7,7,10,117409,"Health, 401k",7,No,8,10,3,0.9091310463184034,Female,57,Widowed,4.146745201184791,0
+334,IT,Sales Rep,2018-09-18,Stay,,5,9,8,58262,"Health, Dental",7,Yes,8,5,5,0.9345495394567351,Male,60,Divorced,0.16778016632031378,0
+335,Operations,Analyst,2016-01-29,Stay,,8,9,7,113727,"Health, Dental, 401k",3,No,7,7,3,0.722234064041951,Female,24,Single,3.9142657330849455,0
+336,Finance,Manager,2018-01-30,Stay,,6,7,7,106525,"Health, 401k",3,No,9,9,3,0.9648731299916735,Male,25,Married,4.129205153376809,0
+337,IT,Developer,2015-02-02,Stay,,9,9,6,112102,"Health, Dental",5,No,7,9,5,0.7440203798499813,Female,25,Married,2.7960058760020168,0
+338,Sales,Manager,2019-05-03,Stay,,4,8,5,50782,"Health, 401k",3,Yes,7,9,4,0.9529123257945955,Male,42,Married,2.2939913102712866,0
+339,IT,Developer,2018-01-06,Resign,Relocation,6,10,5,75444,"Health, Dental",7,No,8,10,3,0.929416078295644,Female,60,Divorced,4.030287780118809,1
+340,Sales,Sales Rep,2020-02-21,Stay,,4,10,9,108949,"Health, 401k",6,No,8,9,4,0.9216454628643149,Male,38,Widowed,3.0385423217421526,0
+341,Operations,Developer,2016-05-19,Stay,,7,6,7,70547,"Health, Dental",1,No,8,5,3,0.9061593043260568,Female,53,Married,2.7068211754391265,0
+342,Sales,Manager,2015-10-22,Resign,Personal Reasons,8,6,10,66388,"Health, Dental, 401k",6,No,7,6,3,0.7607505132168326,Male,35,Widowed,2.3746733299936995,1
+343,HR,Administrator,2021-08-11,Resign,Relocation,2,10,10,93068,"Health, Dental, 401k",6,No,7,10,4,0.8973372844008615,Male,33,Single,3.902561395421972,1
+344,HR,Sales Rep,2016-10-30,Stay,,7,7,8,111748,"Health, Dental, 401k",5,Yes,9,8,4,0.7325771021308856,Female,55,Widowed,2.81894972937973,0
+345,HR,Developer,2017-05-07,Stay,,6,7,8,59151,"Health, Dental, 401k",1,Yes,10,7,4,0.9578852363558001,Male,51,Widowed,0.345578637881081,0
+346,HR,Administrator,2015-11-11,Stay,,8,8,10,96814,"Health, Dental, 401k",5,Yes,7,6,4,0.7601112162029647,Female,40,Divorced,3.1284426636193303,0
+347,HR,Analyst,2020-08-15,Stay,,3,10,7,95445,"Health, Dental",5,No,8,5,5,0.8318815993484985,Male,32,Married,0.17813017325823188,0
+348,Sales,Analyst,2022-07-28,Resign,Better Opportunity,1,9,6,71645,"Health, Dental",6,Yes,7,5,3,0.9718133495237937,Female,46,Married,1.489387146111127,1
+349,HR,Developer,2015-04-07,Stay,,8,9,10,93911,"Health, Dental",2,No,6,8,4,0.9386281994726168,Male,42,Single,0.6858954862465272,0
+350,Finance,Sales Rep,2017-03-15,Resign,Relocation,7,6,7,59605,"Health, Dental",5,No,7,10,4,0.7114366747830396,Female,24,Married,0.883653635517071,1
+351,Sales,Manager,2021-04-11,Stay,,2,10,7,62089,"Health, Dental, 401k",2,Yes,7,8,5,0.846551850090591,Female,39,Divorced,2.4951855512554513,0
+352,Operations,Analyst,2019-08-08,Stay,,4,6,8,92398,"Health, Dental, 401k",4,Yes,6,9,5,0.8575438413440096,Female,32,Single,0.9103844902836528,0
+353,Sales,Administrator,2017-02-11,Stay,,7,8,7,80083,"Health, 401k",7,Yes,9,6,5,0.9505849608542861,Female,50,Divorced,2.9322091849856484,0
+354,IT,Administrator,2016-11-04,Stay,,7,6,9,56522,"Health, 401k",1,No,7,5,3,0.8790895637593265,Male,50,Single,0.5227343463868966,0
+355,Operations,Administrator,2018-11-09,Stay,,5,8,8,63629,"Health, 401k",7,No,6,6,4,0.7197773361085965,Female,59,Divorced,4.929448219722989,0
+356,HR,Analyst,2019-02-25,Resign,Relocation,5,10,10,71904,"Health, Dental, 401k",3,Yes,6,10,4,0.8259192532990396,Male,31,Divorced,2.980395295276023,1
+357,HR,Developer,2021-05-04,Stay,,2,8,8,101764,"Health, Dental",4,No,6,7,5,0.8980601118211646,Female,26,Divorced,2.923867538699384,0
+358,IT,Analyst,2019-06-11,Stay,,4,6,6,85822,"Health, Dental",3,No,9,9,3,0.9964103329808974,Male,37,Single,2.2170497869009687,0
+359,HR,Sales Rep,2016-01-07,Stay,,8,10,7,79108,"Health, 401k",7,No,6,6,5,0.815225290445446,Male,50,Widowed,2.1856896923895466,0
+360,Operations,Sales Rep,2017-02-17,Stay,,7,6,8,112983,"Health, Dental, 401k",7,Yes,10,7,4,0.9953779781690664,Male,34,Divorced,3.399054888046681,0
+361,Operations,Developer,2017-06-04,Stay,,6,9,7,68578,"Health, Dental, 401k",1,No,8,8,3,0.8646582557510616,Female,24,Married,0.3413037546429343,0
+362,Operations,Administrator,2022-05-05,Stay,,1,7,5,59540,"Health, 401k",3,Yes,10,9,3,0.8391262154573963,Male,53,Widowed,2.0382139328213316,0
+363,Sales,Analyst,2015-03-26,Stay,,8,8,6,71343,"Health, 401k",5,Yes,7,9,4,0.8246302023480172,Male,62,Married,2.4896609422201674,0
+364,Sales,Developer,2015-03-30,Resign,Better Opportunity,8,8,8,73939,"Health, 401k",4,No,9,10,5,0.8738018381651158,Female,56,Divorced,1.8583232373685976,1
+365,Operations,Manager,2019-10-19,Stay,,4,7,9,71169,"Health, Dental",6,Yes,9,7,5,0.8285609596095163,Male,39,Divorced,4.289887736645376,0
+366,Sales,Sales Rep,2020-11-10,Stay,,3,8,6,70617,"Health, 401k",2,No,9,9,4,0.815042678074839,Male,30,Single,2.2590880871616656,0
+367,Sales,Manager,2016-11-04,Stay,,7,8,7,79943,"Health, Dental",3,No,7,5,3,0.9934506987546752,Female,56,Married,4.387644121635251,0
+368,Finance,Manager,2018-07-31,Stay,,5,9,6,53934,"Health, Dental, 401k",4,No,6,9,3,0.848352500773607,Female,52,Married,4.322849367612754,0
+369,Sales,Analyst,2017-09-08,Stay,,6,10,5,109528,"Health, Dental",2,No,7,6,3,0.9340565976667482,Male,30,Widowed,3.6841155413104483,0
+370,Finance,Developer,2020-11-24,Resign,Better Opportunity,3,8,6,57039,"Health, 401k",1,Yes,6,10,3,0.8518895091006559,Male,36,Married,0.6919909107265765,1
+371,Finance,Manager,2019-01-29,Stay,,5,9,8,58216,"Health, Dental",1,Yes,6,8,3,0.769579470777277,Male,47,Divorced,0.17399280432148112,0
+372,Sales,Manager,2018-11-23,Resign,Personal Reasons,5,8,5,92148,"Health, Dental, 401k",4,Yes,10,6,3,0.984510418410266,Female,35,Married,1.5097962611631015,1
+373,Sales,Administrator,2015-07-21,Stay,,8,10,7,112583,"Health, 401k",7,No,6,7,4,0.964392097878636,Male,63,Single,2.501895811342477,0
+374,Sales,Administrator,2017-10-29,Stay,,6,9,5,102489,"Health, 401k",2,Yes,7,9,5,0.7425800185505551,Male,44,Single,3.493287691646521,0
+375,HR,Manager,2019-12-15,Stay,,4,8,9,66390,"Health, Dental, 401k",7,No,6,10,3,0.9654946953118964,Male,58,Divorced,2.2393512170227163,0
+376,Finance,Analyst,2019-05-29,Resign,Better Opportunity,4,9,6,84568,"Health, 401k",6,Yes,7,10,5,0.7591041913499336,Male,58,Divorced,4.330778494673446,1
+377,HR,Manager,2018-10-01,Stay,,5,7,7,76360,"Health, Dental",4,No,9,8,5,0.8705839988725266,Female,39,Married,1.8056942849341913,0
+378,Operations,Sales Rep,2016-05-09,Stay,,7,8,8,96161,"Health, Dental",4,Yes,10,8,5,0.979304572808993,Female,26,Widowed,0.9776111132637316,0
+379,Sales,Developer,2016-12-29,Stay,,7,6,9,81049,"Health, Dental, 401k",7,No,6,10,4,0.8693479512315334,Male,22,Divorced,0.18100003075298687,0
+380,Operations,Analyst,2020-11-27,Stay,,3,10,6,104201,"Health, 401k",2,Yes,9,9,3,0.7634885521131962,Male,44,Widowed,3.5861197572899037,0
+381,HR,Administrator,2019-09-23,Stay,,4,8,10,81744,"Health, Dental",5,No,9,6,3,0.7794861856284122,Male,58,Single,2.590915179850131,0
+382,Finance,Developer,2019-04-28,Stay,,4,8,8,118302,"Health, 401k",7,Yes,7,5,5,0.9035712286184586,Male,55,Single,3.4575750813413473,0
+383,IT,Sales Rep,2021-08-29,Resign,Relocation,2,6,9,86315,"Health, Dental, 401k",3,No,9,7,3,0.9241118946418886,Male,33,Widowed,2.4792332457129613,1
+384,Sales,Analyst,2016-05-15,Stay,,7,9,6,78186,"Health, 401k",6,No,9,9,3,0.8775256706954572,Male,26,Widowed,1.1475229082931921,0
+385,Operations,Analyst,2016-06-05,Resign,Personal Reasons,7,10,8,72178,"Health, 401k",7,Yes,6,5,5,0.7844277351565218,Female,29,Single,3.548377262215628,1
+386,Operations,Analyst,2019-10-16,Stay,,4,6,7,108098,"Health, Dental, 401k",6,No,8,9,5,0.756031240805662,Male,24,Married,1.2087469000994489,0
+387,Operations,Administrator,2022-07-20,Stay,,1,10,10,62498,"Health, Dental",3,Yes,6,10,5,0.8963939869611357,Female,34,Single,2.471057841316442,0
+388,HR,Developer,2019-07-04,Stay,,4,8,6,113736,"Health, Dental",3,Yes,8,7,3,0.7687993761446165,Female,37,Divorced,4.116087381906009,0
+389,HR,Sales Rep,2016-10-13,Stay,,7,10,8,75757,"Health, 401k",4,No,9,6,3,0.7488336888019289,Male,46,Widowed,4.35001504980349,0
+390,IT,Manager,2017-05-03,Stay,,6,9,9,114742,"Health, Dental",3,No,8,6,3,0.7393423827400787,Female,24,Single,2.057539772558108,0
+391,HR,Manager,2022-04-10,Stay,,1,7,7,77856,"Health, Dental",4,Yes,9,7,4,0.9216533727645424,Male,55,Married,1.530265573097629,0
+392,Finance,Manager,2015-03-29,Stay,,8,10,9,118413,"Health, Dental, 401k",4,Yes,6,7,5,0.9135734682859135,Male,39,Married,0.29640432861423427,0
+393,Finance,Developer,2018-12-04,Stay,,5,7,7,62850,"Health, Dental, 401k",2,No,7,6,4,0.9782423533047266,Male,57,Married,4.468078140503897,0
+394,Operations,Analyst,2017-03-06,Stay,,7,9,10,95354,"Health, Dental, 401k",1,Yes,8,10,3,0.7785137806015159,Male,36,Widowed,3.8253982413075596,0
+395,Sales,Sales Rep,2018-12-15,Resign,Relocation,5,6,10,88562,"Health, 401k",2,Yes,10,6,3,0.8768363750697148,Female,32,Divorced,1.9965111551159924,1
+396,Operations,Administrator,2019-12-24,Stay,,4,10,10,96016,"Health, Dental, 401k",5,Yes,7,9,4,0.9758848888393544,Male,64,Single,2.1647489582028436,0
+397,Finance,Analyst,2022-04-20,Stay,,1,10,8,115398,"Health, Dental",3,No,8,5,4,0.7670516546370171,Female,62,Divorced,0.3661520399257545,0
+398,Finance,Administrator,2018-01-03,Stay,,6,10,6,92823,"Health, Dental, 401k",2,No,9,9,4,0.8361906789981901,Female,29,Widowed,4.060086211980087,0
+399,Finance,Analyst,2020-09-02,Stay,,3,10,8,56563,"Health, Dental",2,Yes,9,8,3,0.9897452809490845,Female,32,Married,2.938679845896362,0
+400,Operations,Manager,2020-12-10,Stay,,3,7,9,86497,"Health, Dental, 401k",2,No,9,5,5,0.9864647171551855,Female,53,Single,2.8853049902766674,0
+401,IT,Analyst,2015-11-28,Stay,,8,9,5,87320,"Health, 401k",5,Yes,9,5,4,0.8534758448666415,Female,37,Single,3.5780976851003814,0
+402,Sales,Manager,2022-04-28,Stay,,1,7,8,110453,"Health, Dental",5,Yes,9,7,4,0.8346006610744225,Male,46,Single,4.265038233349091,0
+403,IT,Manager,2018-06-27,Stay,,5,8,7,71697,"Health, 401k",3,No,6,9,3,0.9834480583900505,Male,39,Widowed,0.022827959283230892,0
+404,IT,Sales Rep,2018-08-01,Resign,Better Opportunity,5,8,10,66593,"Health, Dental",7,Yes,8,5,4,0.8798369897992365,Male,38,Divorced,0.5144721313763195,1
+405,Sales,Sales Rep,2015-09-08,Stay,,8,6,9,105772,"Health, Dental, 401k",6,Yes,7,5,4,0.7740823992097222,Female,46,Married,2.8367053589559914,0
+406,Finance,Administrator,2020-08-19,Resign,Better Opportunity,3,6,8,85679,"Health, 401k",1,No,8,7,4,0.8551980086223108,Female,44,Widowed,1.930144059571437,1
+407,Finance,Administrator,2015-02-21,Stay,,9,10,10,54260,"Health, Dental",6,Yes,8,6,3,0.8717659076822691,Female,32,Divorced,0.8877771607137014,0
+408,Operations,Developer,2015-07-06,Stay,,8,8,10,80803,"Health, 401k",3,Yes,6,8,3,0.8656875548835551,Male,60,Married,4.365001180616733,0
+409,Operations,Developer,2015-11-12,Stay,,8,7,10,59497,"Health, Dental",6,Yes,6,6,3,0.8217037726227832,Male,43,Divorced,4.779818307490204,0
+410,IT,Administrator,2019-04-24,Stay,,4,9,9,113743,"Health, Dental",6,Yes,9,5,3,0.7439261445465022,Female,22,Divorced,0.7857237550804563,0
+411,Sales,Sales Rep,2015-04-06,Stay,,8,8,7,108970,"Health, 401k",1,No,9,10,4,0.9604168678156433,Male,28,Widowed,4.264681822077655,0
+412,Sales,Manager,2019-10-30,Stay,,4,8,10,62731,"Health, Dental",1,Yes,8,10,4,0.7336984156620046,Male,50,Widowed,1.1821580078381588,0
+413,HR,Developer,2020-05-10,Stay,,3,7,10,118868,"Health, 401k",5,No,6,8,5,0.7418404473323968,Female,38,Divorced,4.833418980908145,0
+414,HR,Sales Rep,2020-02-28,Stay,,4,8,7,69020,"Health, 401k",5,Yes,7,6,4,0.7447744504553887,Female,29,Widowed,4.795271789251729,0
+415,IT,Manager,2015-12-25,Resign,Personal Reasons,8,7,7,98115,"Health, 401k",6,Yes,8,6,4,0.7118231516366966,Male,27,Divorced,2.842687816818861,1
+416,Operations,Developer,2020-12-16,Stay,,3,7,6,54257,"Health, 401k",7,No,6,10,3,0.9573195549001248,Female,23,Married,3.529824972139555,0
+417,Finance,Sales Rep,2018-06-05,Stay,,5,7,10,92909,"Health, Dental, 401k",2,No,8,10,5,0.9675125172986592,Male,22,Divorced,3.485578084731919,0
+418,Finance,Administrator,2015-06-10,Stay,,8,7,8,86566,"Health, 401k",3,No,6,10,4,0.7367690836739696,Female,57,Single,3.311841049575634,0
+419,IT,Sales Rep,2019-10-23,Stay,,4,8,6,80527,"Health, 401k",1,No,8,10,3,0.8384706256617743,Female,27,Single,3.2350611877250977,0
+420,Sales,Developer,2019-05-15,Stay,,4,8,7,104365,"Health, Dental",1,No,7,9,3,0.8179553882751592,Male,33,Divorced,1.2637810014485833,0
+421,HR,Manager,2022-03-21,Stay,,2,9,10,102586,"Health, 401k",1,Yes,6,10,3,0.7378461657401684,Female,29,Married,2.8350613661827397,0
+422,Operations,Developer,2016-11-04,Stay,,7,6,5,116650,"Health, Dental",7,Yes,10,10,4,0.9593177983031821,Male,24,Widowed,3.734938500789427,0
+423,Sales,Analyst,2021-02-26,Stay,,3,9,10,79208,"Health, 401k",6,No,9,9,5,0.9592202404978427,Female,39,Married,4.764432229347263,0
+424,Operations,Administrator,2016-08-19,Stay,,7,7,8,96501,"Health, Dental, 401k",2,No,6,8,4,0.9222455091165653,Female,55,Widowed,1.3626170121210772,0
+425,Operations,Analyst,2022-05-28,Stay,,1,10,8,62791,"Health, Dental",5,No,8,8,3,0.7499697407693313,Male,33,Widowed,3.7725472096486734,0
+426,IT,Developer,2015-07-14,Stay,,8,9,9,76838,"Health, Dental",5,No,9,5,4,0.7790888927737287,Male,37,Single,1.0004193820332814,0
+427,HR,Developer,2022-10-24,Stay,,1,10,6,66865,"Health, Dental, 401k",2,No,8,9,5,0.7576912672350419,Female,55,Widowed,4.9496903316016425,0
+428,HR,Sales Rep,2016-03-07,Stay,,8,10,5,110555,"Health, 401k",7,No,6,10,5,0.9497405668715209,Male,50,Divorced,2.1110093743185403,0
+429,Finance,Sales Rep,2015-10-24,Stay,,8,8,6,72502,"Health, Dental, 401k",7,No,8,7,5,0.8402855799346995,Female,44,Divorced,3.6932421167772933,0
+430,Sales,Analyst,2022-07-02,Stay,,1,7,10,68406,"Health, Dental, 401k",3,Yes,6,5,5,0.7451338700745908,Female,36,Divorced,1.1028194825774769,0
+431,Sales,Sales Rep,2021-12-25,Stay,,2,6,10,70764,"Health, Dental, 401k",3,Yes,6,7,4,0.7030285524295193,Female,26,Divorced,2.837679298481607,0
+432,HR,Sales Rep,2022-09-22,Stay,,1,6,6,102523,"Health, Dental",2,No,9,9,3,0.7835531836368763,Male,53,Married,3.7526620378343605,0
+433,Operations,Analyst,2018-07-12,Stay,,5,6,7,92623,"Health, Dental, 401k",5,No,6,6,4,0.9922391678464919,Male,60,Widowed,3.75699564374812,0
+434,Finance,Sales Rep,2018-12-22,Resign,Relocation,5,6,8,67672,"Health, Dental",3,No,7,6,4,0.7095072596489965,Female,55,Single,3.514557486625038,1
+435,Finance,Analyst,2019-12-30,Stay,,4,6,10,70229,"Health, 401k",1,No,10,5,5,0.9734354580999827,Female,29,Single,1.5848523135437342,0
+436,Operations,Manager,2015-10-10,Stay,,8,10,6,66307,"Health, 401k",1,No,7,8,3,0.7173821260188114,Male,58,Widowed,2.18120994354504,0
+437,Finance,Analyst,2019-11-10,Stay,,4,10,5,103423,"Health, 401k",5,No,6,9,4,0.9015310744223692,Female,26,Single,0.6333555311325795,0
+438,Operations,Sales Rep,2015-11-05,Stay,,8,10,8,119427,"Health, Dental",7,Yes,10,7,5,0.8049090790006531,Male,60,Married,2.7494807873760574,0
+439,Finance,Administrator,2022-02-14,Resign,Personal Reasons,2,7,8,69948,"Health, Dental, 401k",2,Yes,8,7,5,0.8366495283400767,Male,64,Single,2.0862462731422644,1
+440,HR,Administrator,2022-12-07,Stay,,1,9,6,71389,"Health, Dental",2,No,8,5,4,0.7663416405331749,Male,51,Married,0.14459403373984714,0
+441,Finance,Analyst,2019-11-27,Stay,,4,8,6,73891,"Health, 401k",3,No,7,5,4,0.8015577579014339,Male,31,Married,1.0661828826334712,0
+442,Finance,Administrator,2015-06-20,Stay,,8,10,5,110961,"Health, Dental, 401k",5,No,9,9,3,0.7924318410253616,Male,53,Married,0.6204488684119291,0
+443,Sales,Administrator,2022-10-29,Resign,Personal Reasons,1,7,5,108332,"Health, Dental",5,No,10,6,3,0.9126700823725494,Male,63,Married,0.42256541906545486,1
+444,Finance,Sales Rep,2015-10-06,Stay,,8,7,8,76276,"Health, Dental, 401k",6,Yes,10,5,4,0.9613760744448347,Female,28,Married,0.18338383741381636,0
+445,Operations,Manager,2015-12-22,Stay,,8,8,9,109663,"Health, Dental, 401k",3,Yes,9,9,3,0.8227949749986245,Female,62,Widowed,2.7052848609369335,0
+446,HR,Manager,2022-05-23,Resign,Relocation,1,6,8,93685,"Health, Dental, 401k",5,Yes,8,6,5,0.9448663306857479,Male,61,Divorced,4.105072756571031,1
+447,Finance,Sales Rep,2017-06-05,Stay,,6,7,10,66650,"Health, Dental",5,No,6,8,4,0.7034647721917614,Female,44,Widowed,4.0339823862641575,0
+448,HR,Manager,2019-12-29,Stay,,4,9,9,85561,"Health, Dental, 401k",6,Yes,8,10,5,0.9363093019757158,Male,38,Single,0.21007390470171916,0
+449,HR,Analyst,2018-05-08,Stay,,5,9,5,51526,"Health, 401k",3,No,6,8,4,0.8577861426879976,Female,50,Married,0.9379219522942561,0
+450,Finance,Manager,2018-04-30,Resign,Relocation,5,9,7,117891,"Health, Dental",5,Yes,8,8,3,0.9501186714644081,Male,37,Single,0.5633219194742922,1
+451,Sales,Administrator,2017-06-10,Stay,,6,7,6,66378,"Health, Dental",7,Yes,10,7,3,0.7672121884531421,Male,60,Single,1.2843764232112793,0
+452,IT,Sales Rep,2017-06-11,Stay,,6,7,6,83939,"Health, 401k",6,Yes,10,8,5,0.8130228685770916,Female,31,Widowed,1.4390245950384757,0
+453,Finance,Developer,2016-04-16,Resign,Relocation,7,7,6,96970,"Health, 401k",6,No,6,9,3,0.9093125741313826,Female,50,Married,0.911413246685604,1
+454,IT,Administrator,2019-05-29,Stay,,4,7,9,92986,"Health, Dental",7,No,8,5,5,0.9545261176196007,Male,35,Divorced,3.4960073288387528,0
+455,Finance,Administrator,2019-04-07,Stay,,4,9,9,119581,"Health, Dental, 401k",3,Yes,6,6,4,0.8434949722376839,Female,29,Single,1.9805387112880553,0
+456,HR,Analyst,2017-05-08,Stay,,6,8,8,70553,"Health, 401k",6,Yes,6,9,3,0.953908011665068,Female,45,Widowed,0.266254000931358,0
+457,Finance,Developer,2018-09-04,Stay,,5,8,5,103313,"Health, 401k",6,Yes,8,6,3,0.8644958013610549,Male,64,Single,2.0692417957201874,0
+458,IT,Analyst,2022-10-01,Stay,,1,7,7,59083,"Health, 401k",6,Yes,6,5,3,0.9974113078180513,Male,40,Widowed,4.090787575501223,0
+459,HR,Sales Rep,2015-06-17,Stay,,8,9,9,103621,"Health, Dental, 401k",4,No,6,7,5,0.9714133521001466,Male,23,Divorced,1.3869798845686505,0
+460,Finance,Developer,2019-07-14,Resign,Personal Reasons,4,8,8,78983,"Health, Dental, 401k",2,Yes,8,5,3,0.815688372225153,Female,53,Widowed,1.9102943874882299,1
+461,Sales,Sales Rep,2020-08-25,Stay,,3,9,8,103331,"Health, Dental",2,Yes,7,5,4,0.9866447896959127,Male,59,Divorced,0.22941728344022583,0
+462,Operations,Manager,2017-09-29,Stay,,6,7,5,84912,"Health, Dental, 401k",5,No,7,5,3,0.9296025443794753,Male,48,Widowed,0.3245246087344722,0
+463,Finance,Administrator,2018-11-17,Stay,,5,7,8,76018,"Health, Dental",1,Yes,9,10,4,0.8576508159591771,Male,64,Single,4.463543962067868,0
+464,Sales,Manager,2015-07-10,Stay,,8,10,7,73710,"Health, Dental",1,No,7,6,5,0.9973129607787364,Female,58,Divorced,0.2021340823278006,0
+465,IT,Sales Rep,2017-08-22,Resign,Better Opportunity,6,7,5,90885,"Health, 401k",7,Yes,8,10,3,0.9084949986160901,Male,51,Widowed,2.791988351139016,1
+466,Sales,Analyst,2020-09-16,Stay,,3,9,10,67188,"Health, Dental",2,Yes,6,5,3,0.7583820677469976,Female,56,Widowed,0.2507532647059546,0
+467,Operations,Administrator,2016-01-11,Resign,Personal Reasons,8,7,6,75256,"Health, Dental",7,Yes,8,9,5,0.7342110276598183,Male,55,Married,4.79594289306317,1
+468,Sales,Administrator,2021-06-25,Stay,,2,6,7,110817,"Health, 401k",1,No,10,8,3,0.7786347292723781,Male,38,Widowed,0.7070937314409936,0
+469,Finance,Developer,2021-01-03,Stay,,3,10,6,67887,"Health, Dental",3,Yes,8,8,4,0.9206506700384792,Female,59,Single,0.5447141263845939,0
+470,Sales,Manager,2022-07-14,Stay,,1,7,7,81703,"Health, Dental",3,No,7,10,4,0.8651340459866126,Female,51,Divorced,4.429359377669105,0
+471,Finance,Sales Rep,2016-08-24,Stay,,7,7,6,68449,"Health, Dental, 401k",6,No,9,9,3,0.8191454000616446,Male,22,Married,1.3792179432850038,0
+472,IT,Sales Rep,2022-01-06,Stay,,2,10,8,70935,"Health, Dental",6,No,6,7,5,0.9275288562139231,Female,25,Divorced,1.9422265276815738,0
+473,Operations,Sales Rep,2018-05-08,Stay,,5,6,9,86479,"Health, Dental, 401k",4,No,6,8,3,0.707136228241116,Male,40,Single,4.0558207055399915,0
+474,Sales,Sales Rep,2015-11-13,Stay,,8,10,9,109422,"Health, Dental",1,Yes,7,6,4,0.9440725239853687,Female,33,Single,2.5603717869499802,0
+475,Operations,Analyst,2017-05-21,Stay,,6,9,7,82030,"Health, 401k",2,No,9,7,5,0.9244803943869095,Female,59,Single,2.316916758313039,0
+476,Sales,Sales Rep,2020-01-05,Stay,,4,9,6,116038,"Health, Dental",4,Yes,10,5,3,0.754060812194887,Male,27,Married,3.6662709511483307,0
+477,Operations,Analyst,2018-09-09,Stay,,5,6,7,63218,"Health, 401k",7,Yes,9,7,5,0.8167069433597448,Female,54,Widowed,3.932543582480167,0
+478,Sales,Analyst,2017-08-31,Stay,,6,7,8,50409,"Health, Dental, 401k",5,Yes,9,10,3,0.7112800544694438,Female,62,Single,1.1250445126070474,0
+479,IT,Developer,2022-03-09,Resign,Relocation,2,10,9,66210,"Health, Dental, 401k",3,Yes,7,5,5,0.7035363217542172,Female,57,Widowed,3.396954578679976,1
+480,IT,Developer,2022-08-26,Stay,,1,8,6,69410,"Health, Dental, 401k",2,Yes,9,8,5,0.9988803614904533,Female,59,Divorced,4.820580979837988,0
+481,Finance,Manager,2018-05-06,Stay,,5,6,6,108553,"Health, 401k",6,Yes,6,5,4,0.846458997416631,Male,27,Married,4.558744599483705,0
+482,Sales,Sales Rep,2022-07-03,Stay,,1,10,8,75254,"Health, 401k",7,No,9,7,3,0.811607429191576,Female,62,Single,2.255542047037977,0
+483,IT,Analyst,2016-10-11,Resign,Relocation,7,10,9,104677,"Health, 401k",2,No,7,5,4,0.7588516283691935,Female,46,Married,0.5622543339562752,1
+484,IT,Developer,2020-11-24,Stay,,3,6,10,97243,"Health, Dental",1,Yes,9,9,5,0.9421576735265639,Female,32,Divorced,2.3409417119364777,0
+485,Operations,Sales Rep,2017-06-23,Stay,,6,8,6,106562,"Health, Dental",2,No,9,5,5,0.9117258158590444,Female,64,Widowed,3.6606351687492618,0
+486,IT,Developer,2017-06-09,Stay,,6,9,9,86165,"Health, Dental, 401k",5,No,6,9,3,0.7004668593788896,Male,33,Single,1.3797181611865734,0
+487,IT,Developer,2021-12-18,Stay,,2,9,10,88006,"Health, Dental, 401k",7,Yes,6,6,3,0.9313680019120709,Male,56,Married,0.4460224262645829,0
+488,Finance,Manager,2015-09-25,Stay,,8,7,5,105770,"Health, Dental",1,No,7,9,5,0.7334448235452129,Female,47,Divorced,4.6872235417434975,0
+489,HR,Analyst,2017-06-06,Stay,,6,7,7,50968,"Health, Dental",1,Yes,8,7,3,0.9845898040552099,Female,63,Single,0.7446944770789876,0
+490,Operations,Analyst,2022-12-22,Stay,,1,9,8,107139,"Health, Dental",4,No,6,6,3,0.7998208251866517,Female,59,Divorced,0.4141928726258831,0
+491,IT,Developer,2018-08-17,Stay,,5,8,6,60498,"Health, Dental, 401k",1,No,7,7,3,0.8353308325979534,Female,57,Married,2.662279756638563,0
+492,HR,Sales Rep,2017-08-17,Stay,,6,6,5,106890,"Health, Dental",4,No,9,6,4,0.701494271702126,Female,49,Widowed,1.9241927365175693,0
+493,HR,Analyst,2015-03-23,Stay,,9,10,10,61760,"Health, Dental",5,No,6,6,4,0.9473178065333415,Male,27,Divorced,4.38460447495587,0
+494,IT,Manager,2015-10-06,Resign,Relocation,8,7,6,93987,"Health, Dental, 401k",2,Yes,10,9,3,0.7924504762690712,Female,57,Widowed,1.7432653522686925,1
+495,Finance,Analyst,2017-03-06,Stay,,7,9,5,55196,"Health, Dental",6,No,7,10,5,0.8669340628508341,Male,33,Single,1.3392444860723889,0
+496,Sales,Manager,2021-01-28,Stay,,3,10,5,50687,"Health, Dental",5,Yes,10,10,3,0.9779802391179023,Male,60,Widowed,3.7384554708714983,0
+497,Finance,Sales Rep,2020-12-27,Resign,Relocation,3,6,9,52165,"Health, 401k",1,No,6,10,5,0.746866714964669,Female,40,Widowed,0.33431709567473156,1
+498,IT,Developer,2018-02-05,Stay,,6,6,8,92796,"Health, Dental",7,Yes,10,6,5,0.9601988838792765,Male,37,Widowed,4.3944752056741985,0
+499,Operations,Sales Rep,2022-09-14,Stay,,1,7,6,61857,"Health, Dental",2,Yes,8,7,4,0.8500716792527664,Female,48,Widowed,4.360017878602783,0
+500,Sales,Sales Rep,2019-03-04,Stay,,5,7,7,95974,"Health, Dental, 401k",6,Yes,6,10,5,0.9773368522169862,Female,32,Widowed,4.4519849417654545,0
+501,Sales,Manager,2020-09-20,Resign,Personal Reasons,3,8,8,52225,"Health, Dental",2,No,9,7,5,0.9467065150559277,Female,34,Widowed,4.060967291352346,1
+502,IT,Sales Rep,2015-11-02,Stay,,8,6,7,79136,"Health, Dental, 401k",3,No,7,6,5,0.8328940091977266,Male,38,Married,3.437662273608888,0
+503,IT,Developer,2021-09-15,Stay,,2,9,6,58271,"Health, 401k",6,No,10,6,4,0.7266135312144232,Male,57,Married,0.46833160207764013,0
+504,Operations,Analyst,2019-07-02,Stay,,4,6,6,51439,"Health, 401k",7,Yes,8,5,5,0.7090592364646077,Female,52,Widowed,2.175695956191447,0
+505,Finance,Manager,2021-03-03,Stay,,3,6,7,77074,"Health, Dental",5,No,10,5,3,0.9622692429502226,Male,22,Divorced,0.8779190061536946,0
+506,Operations,Manager,2019-10-14,Stay,,4,8,6,98989,"Health, Dental, 401k",4,Yes,6,6,4,0.8422854752375106,Male,32,Married,3.2462458952597464,0
+507,IT,Sales Rep,2015-09-26,Stay,,8,6,5,58109,"Health, 401k",5,Yes,10,6,3,0.8991084723783255,Female,26,Divorced,1.3920073632266798,0
+508,Operations,Sales Rep,2017-03-28,Resign,Personal Reasons,6,9,5,96974,"Health, Dental, 401k",7,Yes,7,10,4,0.9644945242626557,Female,22,Married,4.796959153153369,1
+509,IT,Sales Rep,2022-03-06,Stay,,2,8,6,85169,"Health, 401k",5,No,10,8,4,0.7913976974454091,Male,34,Single,4.574537469099104,0
+510,Sales,Administrator,2015-03-19,Stay,,9,6,9,80011,"Health, Dental, 401k",2,No,10,10,5,0.9687289055174042,Male,33,Widowed,1.3707698937011425,0
+511,Operations,Developer,2018-07-25,Stay,,5,7,6,119244,"Health, Dental, 401k",5,Yes,9,5,4,0.7082597318283065,Male,30,Single,0.5908111218534406,0
+512,HR,Sales Rep,2020-02-22,Stay,,4,10,6,116564,"Health, Dental, 401k",5,Yes,8,10,3,0.7839777036202398,Female,33,Single,4.0071014593012,0
+513,Sales,Administrator,2018-07-11,Stay,,5,6,7,118811,"Health, 401k",6,Yes,10,9,5,0.9435299185298871,Male,54,Widowed,2.4883046218868934,0
+514,HR,Manager,2021-08-22,Resign,Better Opportunity,2,9,10,108546,"Health, Dental, 401k",5,Yes,9,7,3,0.955966095497094,Male,53,Single,4.577506122963486,1
+515,IT,Developer,2015-08-27,Stay,,8,9,10,69365,"Health, 401k",3,No,10,9,5,0.9834506186072759,Male,37,Married,4.868822760915937,0
+516,HR,Administrator,2015-04-06,Stay,,8,7,5,54686,"Health, 401k",2,No,10,10,3,0.790903381739171,Male,61,Single,3.132768835650528,0
+517,Finance,Manager,2015-11-01,Stay,,8,6,9,113663,"Health, Dental, 401k",4,No,8,5,5,0.9340706756848409,Female,43,Widowed,4.722791697727107,0
+518,IT,Analyst,2019-05-14,Stay,,4,6,5,59676,"Health, 401k",1,Yes,10,5,4,0.9955390907946505,Male,35,Married,4.842887403378315,0
+519,HR,Analyst,2016-03-20,Resign,Better Opportunity,8,6,9,70326,"Health, Dental, 401k",2,No,8,10,4,0.8581018045335265,Male,38,Married,4.837876087516752,1
+520,IT,Developer,2021-12-25,Stay,,2,9,10,71162,"Health, 401k",6,Yes,10,8,4,0.7757788868914064,Male,49,Married,0.08090113573734958,0
+521,Finance,Administrator,2020-04-24,Stay,,3,8,8,89729,"Health, 401k",7,No,8,8,4,0.7116886946191544,Female,36,Married,0.5464989518795249,0
+522,HR,Administrator,2015-11-01,Resign,Relocation,8,8,8,51926,"Health, Dental, 401k",3,Yes,10,9,4,0.9278959188351428,Male,29,Divorced,0.05962274628063202,1
+523,HR,Manager,2015-02-24,Stay,,9,7,9,104908,"Health, Dental, 401k",4,No,8,8,5,0.7416536153315401,Female,41,Single,1.6570455566827025,0
+524,Sales,Analyst,2015-12-23,Stay,,8,9,10,51486,"Health, Dental, 401k",1,Yes,6,8,3,0.8160827819292888,Female,60,Divorced,1.6550353198974803,0
+525,HR,Analyst,2019-03-02,Stay,,5,10,6,51776,"Health, Dental",2,No,10,6,3,0.7927833644959761,Female,27,Divorced,2.810240013467884,0
+526,HR,Sales Rep,2018-12-11,Stay,,5,7,10,106549,"Health, 401k",1,No,9,10,4,0.8250552018860955,Female,47,Married,4.810322596161633,0
+527,IT,Administrator,2021-06-08,Stay,,2,8,5,58962,"Health, Dental, 401k",6,No,10,6,4,0.9717996984797689,Male,44,Single,3.4491755198452982,0
+528,Finance,Developer,2015-02-18,Stay,,9,10,7,104127,"Health, Dental",3,Yes,10,10,4,0.8277843283665586,Male,26,Divorced,2.163831368762205,0
+529,Operations,Analyst,2018-02-05,Stay,,6,7,8,117864,"Health, Dental, 401k",5,Yes,9,10,3,0.9738232937870869,Female,52,Married,2.5076243785326695,0
+530,Finance,Developer,2015-09-01,Stay,,8,7,7,85373,"Health, Dental, 401k",1,No,10,8,4,0.941620257910214,Male,53,Single,0.5449572120033308,0
+531,Finance,Developer,2015-08-14,Stay,,8,9,6,73754,"Health, Dental",2,Yes,6,7,3,0.7865134996205513,Female,46,Divorced,3.928162236605493,0
+532,HR,Sales Rep,2015-01-08,Resign,Personal Reasons,9,6,9,50493,"Health, Dental",3,Yes,9,7,5,0.7954267057153996,Female,28,Single,3.1685028316351542,1
+533,Operations,Analyst,2015-10-07,Stay,,8,8,7,63988,"Health, Dental",3,No,9,6,3,0.8109532673804276,Male,26,Widowed,1.8463030874582627,0
+534,Operations,Developer,2018-04-15,Stay,,5,8,6,75930,"Health, 401k",7,Yes,8,7,4,0.8816941574860306,Female,23,Married,3.0689748761864024,0
+535,Finance,Analyst,2018-11-13,Stay,,5,6,6,60082,"Health, 401k",7,Yes,8,10,5,0.9022187551423932,Male,31,Single,4.60754338047097,0
+536,IT,Sales Rep,2021-10-20,Stay,,2,10,7,95626,"Health, Dental, 401k",7,Yes,9,7,3,0.991668950711861,Male,38,Single,1.5424100531942964,0
+537,Operations,Manager,2019-11-01,Stay,,4,10,5,75109,"Health, Dental",6,No,9,6,4,0.9779548190491185,Male,26,Divorced,4.768060590204438,0
+538,Operations,Manager,2015-07-27,Stay,,8,10,8,109315,"Health, Dental, 401k",6,No,10,7,4,0.8835615164277099,Male,26,Single,1.0996625990933317,0
+539,Finance,Manager,2022-09-16,Resign,Relocation,1,6,8,59367,"Health, Dental, 401k",3,No,6,9,3,0.7138716338497333,Male,22,Divorced,3.1015333041566135,1
+540,Sales,Developer,2020-06-03,Stay,,3,9,6,114408,"Health, Dental, 401k",5,Yes,8,9,3,0.8635922861178102,Male,44,Divorced,2.929471566343509,0
+541,Operations,Developer,2019-10-09,Stay,,4,9,8,86223,"Health, Dental",7,Yes,7,5,4,0.8210920663818327,Male,34,Single,2.774727003194064,0
+542,Finance,Developer,2022-12-29,Resign,Relocation,1,7,6,107035,"Health, Dental",6,No,10,10,5,0.8634336176295746,Male,40,Widowed,1.8884387046233435,1
+543,Sales,Analyst,2020-11-02,Stay,,3,8,5,63252,"Health, Dental",5,No,10,7,5,0.712052911977975,Female,57,Divorced,0.16852737544030494,0
+544,Finance,Administrator,2022-02-09,Stay,,2,6,9,68658,"Health, 401k",6,No,6,9,4,0.9987286622281532,Male,36,Single,2.306176554716469,0
+545,Finance,Analyst,2016-09-10,Stay,,7,9,9,87457,"Health, 401k",7,No,8,9,5,0.7170875111258802,Male,43,Single,2.3389714016458485,0
+546,IT,Manager,2020-08-13,Stay,,3,8,9,81898,"Health, Dental",2,Yes,7,9,4,0.7818039802999879,Female,60,Divorced,0.7084188865916274,0
+547,HR,Administrator,2019-02-26,Stay,,5,10,10,81272,"Health, Dental",3,Yes,8,8,5,0.7216372086813992,Male,31,Married,3.3611572140514006,0
+548,Sales,Sales Rep,2017-11-23,Resign,Better Opportunity,6,6,5,61394,"Health, Dental",4,No,8,6,3,0.8642833318012811,Male,63,Married,1.9851554321725478,1
+549,HR,Administrator,2020-02-07,Stay,,4,8,9,61361,"Health, 401k",3,No,6,7,5,0.8055454889662469,Female,25,Widowed,4.038004523918209,0
+550,Sales,Sales Rep,2021-04-15,Stay,,2,9,9,103533,"Health, 401k",2,No,10,10,4,0.8125899528558148,Female,35,Single,4.310267878890215,0
+551,Sales,Developer,2018-01-16,Stay,,6,10,7,92818,"Health, Dental, 401k",6,Yes,6,9,4,0.9367502562573816,Male,36,Single,1.4581235705979152,0
+552,Operations,Manager,2015-09-21,Stay,,8,7,5,102686,"Health, Dental",3,Yes,8,5,3,0.9712060346707956,Female,29,Widowed,1.036698144398696,0
+553,IT,Developer,2017-04-10,Stay,,6,7,9,92186,"Health, Dental",3,Yes,7,8,3,0.7497090949347592,Male,47,Divorced,3.7299326930020307,0
+554,IT,Analyst,2021-02-28,Stay,,3,7,7,71708,"Health, 401k",7,No,10,8,3,0.783693082017987,Male,60,Widowed,4.643084702356975,0
+555,Finance,Developer,2019-02-14,Resign,Relocation,5,9,9,98942,"Health, 401k",4,Yes,6,10,3,0.8418185860589754,Male,37,Divorced,1.9840687799704126,1
+556,HR,Developer,2016-06-03,Stay,,7,6,6,80631,"Health, Dental, 401k",2,Yes,9,6,5,0.7338645010425965,Male,60,Divorced,0.9306886690364335,0
+557,Finance,Administrator,2016-11-18,Stay,,7,8,10,67264,"Health, Dental",3,Yes,7,10,3,0.8159614246154807,Female,22,Widowed,1.395307362294032,0
+558,IT,Sales Rep,2021-08-05,Stay,,2,9,9,75909,"Health, 401k",5,Yes,9,7,3,0.7906264136844653,Male,58,Married,1.6365181112263434,0
+559,Finance,Manager,2015-05-30,Stay,,8,8,10,62278,"Health, Dental",1,No,8,5,3,0.9765929011100298,Female,25,Widowed,0.9232572915295528,0
+560,IT,Developer,2016-02-06,Stay,,8,9,7,59230,"Health, 401k",4,No,7,10,3,0.7595602361306493,Male,62,Married,2.197751700494068,0
+561,IT,Developer,2017-12-29,Stay,,6,10,6,51742,"Health, Dental, 401k",6,Yes,7,7,4,0.9163634194220142,Female,57,Widowed,0.8437937976148563,0
+562,Sales,Sales Rep,2021-12-10,Stay,,2,9,5,117562,"Health, Dental",4,No,10,10,5,0.7647679626260366,Female,32,Widowed,3.6283048347838855,0
+563,Finance,Analyst,2016-11-07,Resign,Relocation,7,7,5,111681,"Health, Dental, 401k",7,No,8,9,3,0.8876975136286176,Female,27,Single,0.7674716982100299,1
+564,Sales,Analyst,2021-04-05,Stay,,2,6,5,75493,"Health, 401k",2,No,6,10,4,0.8745972184421442,Male,34,Divorced,3.7157281641367996,0
+565,Finance,Administrator,2022-04-25,Stay,,1,8,9,95125,"Health, Dental",5,Yes,7,5,5,0.8376172878128525,Male,52,Divorced,1.7959824236794786,0
+566,IT,Sales Rep,2016-02-26,Resign,Better Opportunity,8,10,7,114656,"Health, 401k",5,Yes,6,10,5,0.9450721906545784,Male,63,Married,1.0047331250649143,1
+567,IT,Developer,2016-12-26,Stay,,7,7,5,51790,"Health, 401k",5,Yes,8,5,3,0.766815158313457,Male,25,Divorced,1.841048014895016,0
+568,Operations,Analyst,2021-03-11,Resign,Relocation,3,10,7,53847,"Health, 401k",2,No,8,7,3,0.843184067207472,Female,37,Single,4.306074973742538,1
+569,Sales,Analyst,2022-01-24,Stay,,2,8,5,95372,"Health, Dental, 401k",2,Yes,9,7,5,0.9947252804269575,Male,36,Married,2.097956981291986,0
+570,HR,Manager,2018-04-08,Stay,,5,9,10,68080,"Health, Dental",2,No,6,8,4,0.7549785367864702,Female,22,Divorced,0.20309480300667704,0
+571,Finance,Manager,2020-09-08,Stay,,3,6,8,62946,"Health, 401k",6,No,6,10,3,0.8636297364521114,Male,41,Divorced,2.933546033230244,0
+572,HR,Administrator,2015-08-02,Stay,,8,7,6,107395,"Health, 401k",3,Yes,10,9,3,0.7879317349925414,Male,49,Divorced,4.232272341403584,0
+573,Operations,Analyst,2022-08-17,Stay,,1,6,10,98687,"Health, Dental, 401k",3,No,8,10,5,0.7371418178503253,Male,46,Widowed,3.8809768196575534,0
+574,IT,Analyst,2018-10-20,Stay,,5,8,9,118157,"Health, Dental",4,Yes,8,9,3,0.9554778942677626,Male,62,Single,1.7705370022534002,0
+575,Sales,Sales Rep,2019-12-17,Stay,,4,10,6,96993,"Health, 401k",4,No,8,6,4,0.8733036524714894,Female,62,Divorced,0.8236355808240015,0
+576,HR,Manager,2016-10-12,Stay,,7,6,6,67078,"Health, 401k",1,Yes,8,7,3,0.8736487790530888,Male,35,Married,4.762477180571454,0
+577,Sales,Manager,2022-02-12,Stay,,2,10,8,54873,"Health, Dental",1,No,10,9,5,0.8636004211794029,Male,42,Married,3.075097979713424,0
+578,IT,Analyst,2021-02-27,Stay,,3,6,7,95738,"Health, Dental",7,No,9,10,3,0.7553404320460525,Female,45,Married,1.50259909648627,0
+579,Sales,Administrator,2017-03-17,Resign,Personal Reasons,7,8,6,116581,"Health, Dental, 401k",4,No,8,10,5,0.8705899496758525,Male,39,Divorced,1.9317353162224882,1
+580,Sales,Analyst,2021-11-20,Resign,Personal Reasons,2,10,8,101633,"Health, 401k",1,Yes,7,6,3,0.7274167043306246,Female,55,Divorced,0.2323547759570832,1
+581,Finance,Developer,2016-11-09,Stay,,7,6,7,119077,"Health, Dental, 401k",3,Yes,9,7,3,0.9047925611259391,Male,40,Widowed,0.47006639582058585,0
+582,HR,Manager,2022-09-05,Stay,,1,6,10,68543,"Health, Dental, 401k",4,No,10,6,4,0.7154371504178576,Female,58,Married,0.09367734362414448,0
+583,Operations,Manager,2021-07-23,Resign,Relocation,2,8,10,70924,"Health, Dental",6,Yes,9,10,5,0.7567453350915068,Male,61,Single,1.0147278009248168,1
+584,Sales,Sales Rep,2019-10-28,Stay,,4,10,8,93982,"Health, Dental, 401k",7,No,9,9,5,0.7882653391282495,Male,63,Single,0.4671283808648047,0
+585,Sales,Administrator,2020-04-16,Stay,,3,6,7,87124,"Health, 401k",2,No,10,8,3,0.7836793652979637,Male,52,Widowed,1.0616461343911636,0
+586,Operations,Sales Rep,2016-10-22,Stay,,7,7,8,63425,"Health, 401k",5,Yes,7,5,3,0.9436306866880967,Female,24,Widowed,3.2979308533512066,0
+587,HR,Manager,2021-08-19,Stay,,2,8,6,56108,"Health, 401k",7,Yes,8,10,3,0.7863251933805246,Male,57,Single,3.06712332396195,0
+588,IT,Administrator,2015-05-30,Resign,Relocation,8,6,6,110105,"Health, Dental",2,Yes,7,8,5,0.7221873706365641,Male,58,Divorced,2.02564901598802,1
+589,Finance,Analyst,2022-06-25,Stay,,1,8,8,67115,"Health, Dental",1,No,8,5,3,0.720394808075468,Female,41,Single,4.693589841576016,0
+590,Operations,Analyst,2016-08-15,Stay,,7,9,6,108125,"Health, 401k",2,No,10,6,3,0.7448240558154815,Male,30,Widowed,4.5705077878103655,0
+591,Sales,Administrator,2016-11-05,Stay,,7,6,8,70925,"Health, 401k",4,Yes,6,7,4,0.818257570138727,Male,45,Single,2.622643036683417,0
+592,IT,Developer,2022-05-19,Stay,,1,7,8,105158,"Health, Dental",4,No,10,7,5,0.7590442701208107,Male,24,Single,3.8705502300926398,0
+593,Finance,Analyst,2017-08-31,Resign,Personal Reasons,6,9,9,61488,"Health, 401k",1,Yes,9,10,3,0.7705067078462493,Female,29,Married,0.4953762722307409,1
+594,Operations,Sales Rep,2017-05-30,Resign,Better Opportunity,6,8,5,82378,"Health, 401k",7,Yes,8,7,5,0.755192696648598,Male,42,Widowed,2.3318859049785616,1
+595,Sales,Analyst,2022-09-04,Resign,Better Opportunity,1,10,6,65413,"Health, Dental, 401k",4,Yes,10,8,3,0.7896206191643561,Male,29,Widowed,3.3146178078269988,1
+596,HR,Analyst,2020-02-01,Stay,,4,10,8,66197,"Health, Dental",2,No,7,7,5,0.8514576185869311,Female,32,Single,4.484971552005966,0
+597,Operations,Developer,2017-08-22,Stay,,6,8,10,53788,"Health, Dental",5,No,6,10,5,0.9914041215052793,Female,38,Divorced,0.21966345177466373,0
+598,Sales,Analyst,2016-07-10,Stay,,7,10,5,114682,"Health, 401k",1,No,7,5,3,0.9375971325628848,Male,22,Widowed,0.7563159860045199,0
+599,IT,Sales Rep,2016-02-15,Resign,Relocation,8,10,8,100085,"Health, Dental, 401k",5,Yes,7,5,5,0.7517562110380462,Female,25,Divorced,4.376124585576911,1
+600,Operations,Sales Rep,2019-11-28,Stay,,4,7,10,54916,"Health, Dental",3,No,9,5,5,0.9408552071232497,Female,61,Divorced,4.959921624026186,0
+601,Finance,Sales Rep,2022-09-12,Stay,,1,9,6,96704,"Health, Dental",7,No,8,7,4,0.9130279089692459,Male,37,Divorced,1.93337228422502,0
+602,HR,Manager,2020-02-24,Stay,,4,6,8,88460,"Health, Dental",5,No,8,9,5,0.9717395229695234,Male,53,Single,4.166243081359434,0
+603,Operations,Analyst,2015-11-17,Stay,,8,9,10,66187,"Health, Dental, 401k",7,No,10,5,4,0.8304120200573268,Female,22,Married,4.684401946452191,0
+604,Operations,Analyst,2016-03-17,Stay,,8,8,7,57966,"Health, Dental, 401k",4,Yes,9,5,3,0.9601296047691865,Male,64,Widowed,4.055637810165135,0
+605,HR,Administrator,2018-11-09,Resign,Better Opportunity,5,7,7,73764,"Health, Dental, 401k",2,Yes,10,9,3,0.9094270757583207,Male,62,Widowed,2.5287118998078406,1
+606,IT,Developer,2018-01-02,Stay,,6,8,9,104099,"Health, Dental",5,No,8,10,3,0.7819277728338829,Female,63,Divorced,4.43727801287861,0
+607,Finance,Manager,2022-07-11,Resign,Better Opportunity,1,9,6,82034,"Health, Dental",5,Yes,9,7,5,0.8169328445469337,Male,59,Married,2.2489160216661794,1
+608,Sales,Analyst,2016-09-30,Resign,Relocation,7,7,6,112759,"Health, Dental, 401k",7,No,8,7,5,0.9515435768981405,Female,34,Widowed,3.208350528518677,1
+609,IT,Sales Rep,2017-06-05,Stay,,6,7,5,63259,"Health, Dental, 401k",2,No,9,8,5,0.9423136839425867,Male,42,Single,0.2449285510120669,0
+610,Sales,Manager,2022-12-26,Stay,,1,9,8,86544,"Health, Dental, 401k",7,No,6,7,3,0.7736517918155211,Female,64,Widowed,3.4477102596381766,0
+611,Finance,Manager,2020-06-21,Stay,,3,6,6,77758,"Health, 401k",1,Yes,6,5,4,0.950882167184834,Male,54,Married,2.604656247216192,0
+612,IT,Sales Rep,2015-07-05,Resign,Better Opportunity,8,9,6,97805,"Health, Dental, 401k",2,Yes,8,8,4,0.9837271215860846,Male,52,Widowed,2.346853125273377,1
+613,Operations,Administrator,2017-07-22,Stay,,6,7,5,72070,"Health, Dental",6,Yes,9,9,4,0.9633308375882449,Female,63,Single,4.978321032190339,0
+614,IT,Analyst,2017-09-01,Stay,,6,7,7,109344,"Health, Dental, 401k",6,No,10,9,3,0.8143864083138971,Male,42,Single,4.551288259900802,0
+615,Sales,Developer,2017-11-25,Stay,,6,6,6,119610,"Health, Dental, 401k",7,Yes,6,6,4,0.862348538673862,Female,34,Divorced,2.332137881217426,0
+616,Operations,Administrator,2019-09-25,Stay,,4,6,5,87601,"Health, 401k",3,No,10,8,4,0.9537881926904499,Male,32,Married,4.510770912001865,0
+617,HR,Developer,2017-03-17,Stay,,7,8,7,58604,"Health, Dental",5,Yes,6,9,4,0.914920128263371,Male,29,Divorced,3.186170998063476,0
+618,IT,Developer,2015-04-13,Stay,,8,8,6,106512,"Health, Dental, 401k",2,Yes,8,6,3,0.9127314820384475,Female,33,Married,4.601936360858467,0
+619,IT,Analyst,2016-03-10,Stay,,8,7,10,118040,"Health, 401k",7,No,10,5,5,0.7855754383312734,Female,27,Married,1.5578320530997436,0
+620,Operations,Manager,2021-01-13,Stay,,3,8,7,53540,"Health, Dental, 401k",5,Yes,9,9,4,0.8832405669822027,Female,28,Divorced,3.424637578365938,0
+621,IT,Sales Rep,2017-06-08,Stay,,6,6,6,56652,"Health, 401k",1,No,6,6,4,0.716338334724684,Female,63,Divorced,2.31441963641353,0
+622,Operations,Developer,2017-08-30,Stay,,6,8,10,81387,"Health, 401k",5,No,9,6,5,0.7891442198685429,Female,64,Single,0.7320258225064263,0
+623,HR,Administrator,2019-01-28,Resign,Relocation,5,8,9,54267,"Health, 401k",5,Yes,7,8,5,0.7608366598571943,Female,49,Widowed,3.957775697461514,1
+624,IT,Analyst,2020-05-07,Stay,,3,7,8,117343,"Health, 401k",2,Yes,10,7,3,0.8161043722890533,Male,47,Married,1.4475285980646002,0
+625,Sales,Analyst,2020-01-21,Stay,,4,9,5,87656,"Health, Dental",1,No,6,5,5,0.9214688758743631,Male,58,Divorced,0.10663770716325183,0
+626,IT,Administrator,2019-11-13,Stay,,4,9,6,58281,"Health, 401k",3,No,9,7,3,0.7781623383318951,Female,26,Single,2.6758657702697395,0
+627,Operations,Developer,2020-11-02,Resign,Relocation,3,10,8,73282,"Health, Dental",2,Yes,8,6,4,0.7536745273932925,Male,26,Widowed,0.987573568911061,1
+628,Operations,Developer,2019-02-07,Stay,,5,10,9,89598,"Health, Dental",2,No,7,9,4,0.9526107025967224,Female,59,Widowed,4.960160843016857,0
+629,Sales,Developer,2015-05-26,Resign,Better Opportunity,8,7,10,80171,"Health, Dental, 401k",6,Yes,7,7,3,0.9745293891839208,Female,27,Widowed,4.463897827742554,1
+630,Sales,Administrator,2022-10-11,Stay,,1,7,7,110461,"Health, Dental",6,Yes,9,10,3,0.8338649788988417,Male,30,Married,3.490087902043406,0
+631,Operations,Developer,2022-12-29,Stay,,1,9,9,51224,"Health, Dental, 401k",1,Yes,10,10,4,0.7733493315567528,Female,36,Married,3.033371491337023,0
+632,Operations,Administrator,2019-10-19,Stay,,4,7,8,102888,"Health, Dental",4,No,8,7,5,0.7757097705407262,Female,44,Single,1.249600783002169,0
+633,IT,Analyst,2017-12-17,Stay,,6,6,5,117709,"Health, Dental",5,Yes,9,9,4,0.8248539663220944,Male,46,Married,1.1190762848020963,0
+634,Operations,Administrator,2020-12-24,Stay,,3,7,8,118497,"Health, Dental",2,Yes,9,7,3,0.9407328812708331,Male,33,Single,1.635533603557362,0
+635,Sales,Sales Rep,2016-10-28,Stay,,7,8,7,74871,"Health, Dental",1,Yes,9,10,4,0.8684445042511004,Male,33,Single,0.8843045961009138,0
+636,IT,Manager,2019-08-22,Stay,,4,7,8,95652,"Health, Dental, 401k",6,Yes,9,9,5,0.8732007840578371,Female,58,Married,3.8525382369173578,0
+637,Operations,Manager,2015-02-27,Stay,,9,9,9,96308,"Health, Dental",2,Yes,9,5,5,0.993447194691336,Female,31,Single,0.40088018510746726,0
+638,HR,Sales Rep,2020-05-02,Resign,Relocation,3,6,8,112766,"Health, Dental, 401k",1,No,9,10,3,0.7233025590585868,Female,61,Married,3.254791827585117,1
+639,Sales,Administrator,2019-08-19,Resign,Better Opportunity,4,10,8,102178,"Health, Dental",1,Yes,8,8,5,0.8425040179932665,Female,22,Married,4.464815971075556,1
+640,HR,Manager,2021-01-08,Stay,,3,6,8,67648,"Health, 401k",3,No,8,9,4,0.8438206885346743,Female,27,Married,3.9879763468964446,0
+641,IT,Sales Rep,2016-10-17,Stay,,7,6,8,104863,"Health, Dental, 401k",1,No,9,9,3,0.8661921927306322,Male,37,Divorced,2.4263957972050254,0
+642,Sales,Developer,2022-04-14,Stay,,1,8,7,90967,"Health, 401k",7,Yes,8,9,5,0.7503820712088584,Male,45,Divorced,3.8366289729449417,0
+643,IT,Sales Rep,2020-08-28,Resign,Relocation,3,6,8,108640,"Health, Dental, 401k",7,Yes,6,8,3,0.7506766445197055,Female,40,Widowed,4.664502218402269,1
+644,Finance,Manager,2020-09-04,Resign,Relocation,3,7,5,84973,"Health, Dental",6,Yes,6,6,5,0.8246345682852441,Male,31,Married,1.0306143734504798,1
+645,Sales,Administrator,2017-01-14,Stay,,7,9,10,58012,"Health, Dental, 401k",1,No,7,10,3,0.8818651768874429,Male,44,Married,2.2018275019380953,0
+646,IT,Administrator,2016-04-24,Stay,,7,6,7,70833,"Health, Dental",4,Yes,6,5,5,0.7908407575102284,Female,63,Divorced,2.5425862869669413,0
+647,HR,Administrator,2019-11-02,Stay,,4,6,7,83966,"Health, Dental, 401k",7,No,7,10,3,0.8492557612349296,Female,39,Divorced,3.428573219058521,0
+648,IT,Manager,2020-09-03,Resign,Better Opportunity,3,7,8,62894,"Health, Dental",5,No,8,9,3,0.9960271822995701,Female,38,Divorced,4.602208479387085,1
+649,Operations,Developer,2019-01-01,Stay,,5,6,9,102613,"Health, Dental, 401k",7,Yes,9,7,5,0.7091293052169481,Female,43,Widowed,1.9001637427223699,0
+650,Operations,Administrator,2017-07-05,Stay,,6,10,10,94933,"Health, 401k",3,No,9,5,3,0.8397601857476504,Female,55,Divorced,0.8195466780012017,0
+651,HR,Analyst,2022-05-09,Stay,,1,6,8,114822,"Health, Dental, 401k",7,Yes,6,9,5,0.8421714092027757,Female,43,Married,3.2468266611322694,0
+652,IT,Developer,2020-01-06,Stay,,4,6,10,54071,"Health, Dental, 401k",5,Yes,8,6,3,0.9075419166161637,Male,32,Married,2.92634898693393,0
+653,Sales,Sales Rep,2022-12-31,Stay,,1,6,7,93880,"Health, Dental, 401k",2,Yes,10,7,5,0.7799200345862248,Male,37,Widowed,2.4172199928135534,0
+654,HR,Analyst,2016-04-17,Stay,,7,10,6,54397,"Health, Dental",3,Yes,9,9,3,0.9399802202407929,Female,46,Divorced,2.68545381257635,0
+655,IT,Developer,2019-06-19,Resign,Relocation,4,10,5,85560,"Health, 401k",3,Yes,8,8,5,0.8202980260079457,Male,53,Single,2.7099111202295405,1
+656,Finance,Manager,2020-03-26,Stay,,3,10,9,51056,"Health, Dental",1,Yes,9,7,5,0.7285487177856478,Female,58,Married,3.933459143133085,0
+657,Operations,Analyst,2019-06-19,Stay,,4,10,9,94392,"Health, 401k",4,No,6,8,4,0.8890181497185875,Male,42,Single,1.522361948720261,0
+658,HR,Developer,2017-08-24,Stay,,6,6,10,94335,"Health, Dental, 401k",1,Yes,10,5,4,0.7079179433198529,Female,57,Widowed,3.195484229040912,0
+659,IT,Developer,2017-01-27,Stay,,7,7,10,63165,"Health, Dental",6,Yes,9,7,3,0.9150406580885247,Male,28,Married,2.6127049132966307,0
+660,Finance,Developer,2015-03-26,Stay,,8,9,9,89562,"Health, Dental",4,Yes,8,10,3,0.7036420893281673,Female,41,Single,0.7876123109161354,0
+661,Operations,Developer,2019-01-11,Stay,,5,9,7,63077,"Health, Dental, 401k",6,Yes,7,7,4,0.8790010607079375,Male,34,Divorced,2.293710276111292,0
+662,Finance,Administrator,2020-02-23,Resign,Relocation,4,6,9,87579,"Health, Dental",7,Yes,9,8,5,0.9612675938460581,Female,53,Divorced,3.8054231485576677,1
+663,HR,Analyst,2022-12-17,Stay,,1,8,9,105699,"Health, 401k",3,Yes,7,5,3,0.909522528178583,Male,24,Widowed,1.7006555046804723,0
+664,IT,Developer,2016-08-30,Stay,,7,9,6,74399,"Health, Dental",3,Yes,8,5,5,0.8873031264217057,Female,46,Married,1.2891151128202893,0
+665,Finance,Sales Rep,2015-12-15,Resign,Personal Reasons,8,10,6,113924,"Health, Dental, 401k",4,Yes,9,8,5,0.829537337586203,Male,23,Widowed,0.7862142254336019,1
+666,Finance,Developer,2022-05-12,Stay,,1,8,6,85795,"Health, Dental, 401k",1,Yes,10,9,3,0.8008586550720272,Male,51,Single,3.41732521922637,0
+667,Finance,Administrator,2019-09-10,Stay,,4,7,9,95343,"Health, Dental",1,No,6,6,3,0.8110886562832538,Male,52,Divorced,4.951267941481132,0
+668,Sales,Analyst,2018-10-28,Stay,,5,8,9,71277,"Health, 401k",3,No,6,8,5,0.8125079259945235,Male,48,Divorced,2.5760812933187975,0
+669,Finance,Analyst,2016-10-23,Stay,,7,7,8,52684,"Health, Dental, 401k",1,Yes,8,8,5,0.8589650888288807,Female,27,Widowed,1.7544898806597464,0
+670,IT,Developer,2016-11-05,Resign,Personal Reasons,7,8,10,68605,"Health, 401k",3,No,10,9,3,0.7429990243201061,Male,56,Divorced,2.982562697451076,1
+671,IT,Developer,2017-05-22,Stay,,6,9,7,115616,"Health, Dental",7,Yes,10,9,3,0.9645645805401737,Female,31,Single,0.8911924981082997,0
+672,IT,Sales Rep,2018-10-08,Resign,Better Opportunity,5,10,8,99361,"Health, Dental, 401k",3,Yes,6,10,5,0.8877626632916844,Male,30,Married,3.2402278232023045,1
+673,Operations,Analyst,2021-07-17,Stay,,2,7,7,99626,"Health, Dental",6,Yes,7,10,5,0.8123308683487293,Female,64,Divorced,1.9959312444139587,0
+674,Finance,Analyst,2017-07-05,Stay,,6,7,8,87847,"Health, 401k",2,No,8,7,5,0.9946636492343577,Female,35,Married,1.1458053488315616,0
+675,HR,Analyst,2017-07-28,Stay,,6,8,6,75901,"Health, 401k",4,No,10,7,3,0.9617582609875841,Female,64,Married,3.2703096908448535,0
+676,Operations,Manager,2022-10-18,Stay,,1,10,9,73322,"Health, 401k",4,No,9,5,5,0.8820448568605964,Male,53,Divorced,1.7029016529486085,0
+677,Sales,Analyst,2017-12-27,Stay,,6,6,6,100667,"Health, Dental, 401k",7,Yes,8,9,3,0.8115246455360616,Female,45,Married,0.3784799373748321,0
+678,IT,Analyst,2020-05-07,Stay,,3,7,8,87594,"Health, Dental, 401k",2,No,6,5,4,0.8107281567996527,Female,62,Married,4.568256569203464,0
+679,Sales,Sales Rep,2018-06-05,Stay,,5,10,10,112724,"Health, Dental, 401k",2,No,9,8,5,0.7200120179053214,Female,35,Married,1.7324385415769972,0
+680,Operations,Sales Rep,2017-10-01,Stay,,6,6,10,63645,"Health, 401k",5,No,8,5,5,0.8027562912361254,Female,24,Widowed,2.8359182092881636,0
+681,Sales,Administrator,2021-12-31,Stay,,2,7,7,92569,"Health, Dental, 401k",3,No,8,8,3,0.7737052685299639,Female,44,Divorced,4.964307231042307,0
+682,Operations,Sales Rep,2016-03-29,Resign,Personal Reasons,7,10,5,60566,"Health, 401k",6,Yes,7,8,3,0.8825653366796247,Male,39,Single,0.4073742171499223,1
+683,Sales,Analyst,2020-03-08,Stay,,4,7,5,52693,"Health, Dental, 401k",5,No,9,9,4,0.916049045668451,Male,27,Widowed,3.0657553732025216,0
+684,IT,Analyst,2016-03-02,Stay,,8,9,9,75567,"Health, Dental",3,No,6,5,3,0.7877274431715129,Male,37,Widowed,0.05377238166696108,0
+685,Finance,Analyst,2021-07-11,Stay,,2,10,9,51234,"Health, Dental",4,No,8,9,4,0.8638442498256466,Male,46,Married,3.6792740056134727,0
+686,IT,Sales Rep,2019-04-03,Stay,,4,8,10,91689,"Health, 401k",5,No,7,10,5,0.9361238929491125,Male,41,Widowed,1.2380069560486706,0
+687,IT,Developer,2017-01-23,Resign,Better Opportunity,7,8,8,61228,"Health, 401k",3,Yes,6,8,5,0.8925711430813403,Female,26,Divorced,4.386686157431977,1
+688,IT,Manager,2015-06-16,Stay,,8,6,7,80572,"Health, Dental",7,Yes,9,10,3,0.9230983937521562,Male,61,Divorced,1.2231603502898347,0
+689,Finance,Administrator,2016-03-03,Stay,,8,9,7,83119,"Health, 401k",6,No,6,7,3,0.7654239063167952,Female,22,Divorced,1.3360525073495944,0
+690,IT,Developer,2015-10-28,Stay,,8,6,6,105215,"Health, 401k",7,Yes,9,6,4,0.8905149679060216,Female,22,Married,0.3939140883928588,0
+691,Operations,Manager,2018-02-06,Stay,,6,8,8,58483,"Health, Dental, 401k",4,No,6,6,3,0.7821352939273751,Male,61,Married,0.4376734843309621,0
+692,Sales,Sales Rep,2015-03-31,Stay,,8,10,6,50607,"Health, Dental, 401k",4,Yes,9,9,5,0.7692251764847287,Male,32,Married,1.3908432363638523,0
+693,Finance,Administrator,2017-10-07,Resign,Relocation,6,9,8,97243,"Health, Dental, 401k",2,Yes,8,8,5,0.7812811837461048,Male,51,Divorced,3.7065957121149857,1
+694,HR,Administrator,2017-07-06,Resign,Personal Reasons,6,7,8,107497,"Health, 401k",2,No,9,9,3,0.8099576534573999,Female,46,Divorced,3.6845881266550817,1
+695,Operations,Sales Rep,2016-09-19,Stay,,7,7,9,54579,"Health, Dental, 401k",5,No,6,9,5,0.8412821249613864,Male,31,Divorced,2.2256002783326045,0
+696,Finance,Developer,2019-01-20,Stay,,5,10,9,103338,"Health, Dental, 401k",1,No,10,10,5,0.7687784327707679,Female,33,Married,4.563378884193529,0
+697,Sales,Manager,2015-10-11,Resign,Better Opportunity,8,8,10,117379,"Health, Dental, 401k",7,No,6,7,5,0.8049890485875326,Female,42,Divorced,2.97581019512619,1
+698,Finance,Analyst,2021-01-26,Stay,,3,6,7,102090,"Health, 401k",1,Yes,6,9,5,0.9689490145340884,Male,23,Widowed,2.29272536788541,0
+699,Operations,Analyst,2015-06-20,Stay,,8,8,7,55035,"Health, Dental, 401k",4,No,6,5,3,0.7403880722563797,Male,33,Divorced,4.7650324955924495,0
+700,Operations,Manager,2021-01-28,Stay,,3,10,9,72798,"Health, Dental, 401k",3,No,10,10,3,0.7647172179974127,Female,27,Single,0.5209326374991191,0
+701,HR,Analyst,2019-01-27,Stay,,5,8,5,107605,"Health, 401k",5,Yes,6,10,3,0.7182078078828132,Female,48,Single,0.4864766340055249,0
+702,IT,Developer,2019-12-24,Resign,Personal Reasons,4,6,7,56272,"Health, 401k",7,Yes,6,7,4,0.9126643389253776,Female,35,Married,0.6770889384059636,1
+703,Sales,Sales Rep,2017-03-17,Stay,,7,6,6,89086,"Health, Dental, 401k",5,Yes,8,6,5,0.8588232141313465,Male,25,Widowed,2.4860591596468145,0
+704,Operations,Analyst,2021-03-17,Resign,Relocation,3,9,5,87693,"Health, 401k",7,No,7,9,3,0.8422961022089515,Female,54,Married,2.002496285212569,1
+705,Operations,Sales Rep,2020-08-24,Stay,,3,9,6,109954,"Health, Dental, 401k",5,No,10,9,5,0.7103245527234914,Female,54,Single,3.236683545695062,0
+706,Sales,Analyst,2020-07-08,Stay,,3,9,8,112575,"Health, Dental",3,Yes,10,6,5,0.9884027996541811,Male,26,Married,3.489527025764377,0
+707,Operations,Analyst,2019-09-13,Stay,,4,8,8,99767,"Health, Dental",4,Yes,6,7,3,0.953223209400969,Male,58,Divorced,3.9203449732736475,0
+708,HR,Administrator,2020-03-05,Stay,,4,7,10,111454,"Health, 401k",3,Yes,10,10,3,0.9461122324352986,Male,58,Widowed,0.34931562081685685,0
+709,HR,Analyst,2015-01-09,Stay,,9,8,10,86549,"Health, Dental",5,No,10,7,3,0.962565242661243,Female,23,Divorced,1.5381004341578686,0
+710,IT,Administrator,2019-02-24,Resign,Better Opportunity,5,6,8,90560,"Health, Dental, 401k",3,No,9,8,3,0.9331075482785298,Female,55,Divorced,3.1219447337389066,1
+711,Finance,Manager,2017-01-20,Stay,,7,9,7,50515,"Health, 401k",4,Yes,7,5,4,0.7418312702115426,Female,49,Divorced,1.4185960047492623,0
+712,Sales,Analyst,2017-03-03,Stay,,7,10,7,114285,"Health, 401k",1,Yes,10,7,3,0.9914477292936059,Male,48,Widowed,2.7115284590394446,0
+713,HR,Analyst,2019-09-27,Resign,Better Opportunity,4,7,10,51840,"Health, 401k",5,No,7,10,4,0.9801155418820477,Female,43,Widowed,1.7943499664219986,1
+714,HR,Analyst,2018-08-29,Stay,,5,8,8,57033,"Health, Dental, 401k",1,No,10,9,4,0.9088231334136919,Male,62,Divorced,1.7219760695355535,0
+715,HR,Administrator,2021-06-17,Stay,,2,7,7,76277,"Health, 401k",2,No,8,5,5,0.7876032029584228,Female,44,Widowed,4.569549307789562,0
+716,HR,Analyst,2022-01-06,Resign,Relocation,2,10,7,58259,"Health, Dental, 401k",1,Yes,7,7,4,0.7003333325171839,Female,57,Single,0.8803833841355785,1
+717,IT,Developer,2020-06-04,Stay,,3,9,6,112597,"Health, Dental",6,Yes,9,8,5,0.8457585308241213,Female,36,Married,0.9475014523800696,0
+718,Operations,Manager,2021-08-17,Stay,,2,9,9,54671,"Health, 401k",7,Yes,10,5,4,0.8784410417611708,Female,33,Divorced,0.08131620517375537,0
+719,HR,Sales Rep,2022-05-27,Stay,,1,6,8,97817,"Health, Dental",7,Yes,6,6,3,0.9981943969487658,Female,42,Divorced,0.5625133320695519,0
+720,IT,Sales Rep,2021-03-15,Stay,,3,8,10,117985,"Health, Dental, 401k",2,No,10,9,5,0.739874511114915,Male,37,Widowed,0.7897792296889761,0
+721,Finance,Administrator,2016-04-29,Resign,Relocation,7,6,5,96442,"Health, Dental",6,Yes,10,5,5,0.7266460292478377,Female,24,Widowed,3.893888185839087,1
+722,Operations,Manager,2020-06-23,Stay,,3,7,9,86710,"Health, 401k",3,No,10,5,3,0.8278955314009719,Female,40,Widowed,1.1447003445845072,0
+723,Finance,Manager,2021-07-17,Resign,Personal Reasons,2,10,10,102212,"Health, Dental",2,Yes,7,5,5,0.9252868666801786,Female,31,Widowed,4.428629368333779,1
+724,Operations,Sales Rep,2018-04-17,Stay,,5,10,9,108819,"Health, 401k",1,No,10,5,4,0.8020210988525037,Female,52,Divorced,3.4152980429307562,0
+725,Operations,Administrator,2017-07-28,Stay,,6,6,6,80311,"Health, Dental",4,No,7,6,5,0.8987080758072921,Male,45,Widowed,0.49840514192770413,0
+726,Operations,Developer,2017-12-23,Resign,Relocation,6,6,8,117307,"Health, Dental",4,Yes,9,5,5,0.9668315159802693,Female,47,Divorced,3.6338647748842896,1
+727,IT,Manager,2017-03-15,Stay,,7,7,5,110997,"Health, Dental",1,Yes,8,10,5,0.9379485973310051,Female,29,Widowed,2.286696965037086,0
+728,Sales,Sales Rep,2019-08-07,Stay,,4,9,5,79356,"Health, Dental",1,No,8,10,4,0.7304787575572077,Male,32,Widowed,3.9766139165485894,0
+729,Finance,Developer,2019-04-22,Resign,Better Opportunity,4,10,10,56650,"Health, 401k",6,Yes,8,10,4,0.833822598142901,Male,45,Married,2.8678062475149972,1
+730,Operations,Developer,2021-07-30,Stay,,2,6,6,56603,"Health, Dental",2,No,10,6,3,0.7113977963271624,Female,60,Married,2.07049390637497,0
+731,Operations,Developer,2022-05-29,Stay,,1,10,9,87417,"Health, Dental",1,Yes,7,5,4,0.750591497330932,Female,26,Widowed,0.05989397583366807,0
+732,HR,Analyst,2021-05-05,Stay,,2,9,6,62587,"Health, Dental",1,No,8,5,4,0.931213307955343,Male,38,Divorced,0.18029345566876798,0
+733,HR,Developer,2021-02-25,Stay,,3,10,5,106187,"Health, 401k",7,Yes,9,6,3,0.7522279395510948,Male,35,Single,3.971536317181531,0
+734,IT,Developer,2018-06-02,Stay,,5,9,9,68404,"Health, Dental",6,Yes,8,5,5,0.8676442147929369,Male,54,Divorced,0.24698504541458777,0
+735,Operations,Sales Rep,2017-10-15,Stay,,6,9,9,52127,"Health, Dental",6,No,10,7,4,0.884493545859023,Male,29,Married,1.6340006890674648,0
+736,Finance,Administrator,2020-02-16,Stay,,4,8,6,83630,"Health, 401k",1,Yes,6,6,5,0.7469909010984689,Female,55,Widowed,0.7497697290808697,0
+737,Finance,Analyst,2018-12-03,Resign,Personal Reasons,5,7,8,53456,"Health, Dental",6,No,8,10,3,0.9744466487655248,Male,53,Married,2.220391982751556,1
+738,HR,Sales Rep,2016-01-20,Resign,Better Opportunity,8,10,7,78304,"Health, Dental, 401k",1,No,10,9,4,0.7175505542311575,Female,56,Divorced,3.8933055537969046,1
+739,HR,Sales Rep,2019-03-08,Stay,,5,9,9,107846,"Health, Dental",5,Yes,10,7,5,0.97577037743822,Female,50,Married,0.04919413478760293,0
+740,Sales,Developer,2016-05-10,Stay,,7,10,10,101361,"Health, Dental, 401k",5,No,6,5,3,0.7341398161482107,Male,38,Married,3.0556065881694705,0
+741,Operations,Analyst,2017-03-21,Stay,,7,6,9,99325,"Health, Dental",6,Yes,8,5,4,0.9702609950026326,Female,29,Widowed,0.491529902210151,0
+742,Operations,Administrator,2015-01-03,Stay,,9,7,7,102645,"Health, Dental",4,No,8,9,4,0.810367278085118,Female,48,Widowed,3.7328646065455158,0
+743,HR,Administrator,2022-02-03,Resign,Better Opportunity,2,7,5,55414,"Health, 401k",2,No,9,7,4,0.9369522369408801,Female,47,Married,4.122403060328111,1
+744,HR,Sales Rep,2016-05-05,Stay,,7,6,7,63617,"Health, Dental, 401k",4,No,10,10,4,0.8182712905744014,Male,45,Single,1.2145313804060376,0
+745,HR,Analyst,2015-02-04,Stay,,9,6,6,56198,"Health, Dental",4,Yes,8,6,3,0.9199469449152711,Female,28,Divorced,1.2173732973218943,0
+746,Sales,Sales Rep,2018-08-20,Stay,,5,10,10,109946,"Health, Dental",2,No,8,7,4,0.9557172266175682,Male,52,Divorced,2.8761806713123796,0
+747,Sales,Sales Rep,2017-01-23,Stay,,7,8,10,103593,"Health, Dental",6,No,7,9,5,0.8576316635728642,Female,33,Widowed,1.8839011477256329,0
+748,Sales,Administrator,2019-01-08,Stay,,5,10,9,84959,"Health, Dental",2,Yes,6,6,4,0.8206418701150593,Female,45,Widowed,4.21955980265819,0
+749,Operations,Administrator,2017-02-08,Resign,Better Opportunity,7,10,9,57102,"Health, Dental",4,No,9,6,4,0.8183897920411993,Male,42,Married,0.7971503662766888,1
+750,Sales,Sales Rep,2020-12-11,Stay,,3,9,10,71743,"Health, Dental, 401k",1,No,6,8,5,0.7169775288599777,Female,29,Widowed,0.28702949464891214,0
+751,Operations,Administrator,2016-08-06,Stay,,7,10,8,102346,"Health, 401k",1,Yes,7,5,4,0.7044447151231569,Female,22,Single,3.3328085807735226,0
+752,HR,Administrator,2015-03-20,Stay,,9,7,5,111156,"Health, 401k",6,Yes,7,6,3,0.9230710402790925,Female,36,Single,0.9865039028376482,0
+753,Operations,Developer,2018-05-28,Stay,,5,8,6,56754,"Health, Dental, 401k",6,No,7,6,4,0.8246198450207058,Female,32,Single,0.6807683184993352,0
+754,Finance,Developer,2018-11-19,Resign,Relocation,5,6,10,102097,"Health, 401k",3,No,8,8,3,0.7453278305296414,Male,28,Widowed,3.4669684024297966,1
+755,IT,Manager,2021-03-12,Stay,,3,7,7,90675,"Health, 401k",7,No,6,8,3,0.9614610991265109,Female,41,Divorced,4.31663294961782,0
+756,HR,Manager,2019-12-09,Stay,,4,6,5,94983,"Health, Dental, 401k",3,No,6,6,4,0.8913315176688889,Male,25,Widowed,3.86647964649255,0
+757,Finance,Sales Rep,2019-04-17,Stay,,4,9,10,100429,"Health, 401k",3,Yes,10,9,4,0.842351334506882,Male,50,Divorced,0.7442229409483503,0
+758,IT,Sales Rep,2018-04-25,Stay,,5,10,5,104441,"Health, Dental",6,No,8,10,4,0.8070954979761729,Female,53,Single,2.8764697261371017,0
+759,Finance,Sales Rep,2016-07-09,Resign,Relocation,7,9,6,94274,"Health, 401k",4,Yes,9,10,3,0.803423897913086,Female,25,Divorced,1.485639977943773,1
+760,IT,Sales Rep,2016-06-03,Resign,Relocation,7,6,10,66898,"Health, 401k",2,Yes,9,8,5,0.8114260842315115,Female,59,Single,0.4532765949401618,1
+761,IT,Administrator,2018-03-01,Stay,,6,10,8,77928,"Health, Dental",7,Yes,10,7,3,0.9659663007587858,Female,59,Divorced,1.3595423277902319,0
+762,Sales,Manager,2020-09-01,Stay,,3,10,6,87848,"Health, Dental, 401k",5,No,7,9,4,0.8135812382231294,Female,29,Single,2.2003459982205813,0
+763,Finance,Sales Rep,2022-02-09,Stay,,2,9,6,94522,"Health, Dental",2,No,8,7,4,0.70579492931435,Female,30,Widowed,1.025040329376291,0
+764,Finance,Developer,2019-06-14,Stay,,4,6,8,66507,"Health, Dental, 401k",5,No,6,7,5,0.7434801074967602,Female,26,Widowed,3.943522569443243,0
+765,HR,Administrator,2016-12-27,Stay,,7,8,5,117489,"Health, Dental",7,No,10,9,3,0.8038624707868912,Male,27,Widowed,3.8847069941643686,0
+766,Operations,Manager,2017-04-14,Stay,,6,9,5,66143,"Health, Dental, 401k",6,No,6,6,4,0.749905660225943,Female,33,Divorced,1.2249229856606418,0
+767,Finance,Administrator,2019-07-14,Stay,,4,7,7,67832,"Health, Dental",2,No,6,5,3,0.9468944384818481,Male,41,Divorced,3.783422030721082,0
+768,Finance,Analyst,2021-06-04,Stay,,2,7,8,69557,"Health, Dental",6,Yes,6,10,5,0.9996194832261306,Male,54,Widowed,1.701469508003487,0
+769,HR,Sales Rep,2019-03-20,Resign,Better Opportunity,5,7,10,100191,"Health, Dental",2,No,7,7,5,0.8002489062588843,Female,38,Widowed,3.20533113731965,1
+770,HR,Developer,2016-11-04,Stay,,7,6,5,82675,"Health, Dental, 401k",5,No,9,9,3,0.8455559044424672,Female,63,Divorced,2.781928434395705,0
+771,Sales,Manager,2019-02-06,Resign,Relocation,5,7,5,109293,"Health, Dental, 401k",1,Yes,7,7,3,0.7142854501544266,Male,28,Married,2.7564751906990375,1
+772,Operations,Administrator,2021-08-17,Resign,Personal Reasons,2,7,8,85990,"Health, Dental, 401k",3,Yes,7,5,5,0.7583392341704064,Female,44,Widowed,0.9702366699426757,1
+773,Operations,Manager,2019-11-25,Stay,,4,10,9,57866,"Health, 401k",4,No,9,8,3,0.7687181516631324,Female,56,Single,0.8114336750144785,0
+774,Sales,Analyst,2016-06-19,Stay,,7,10,10,107467,"Health, 401k",4,No,9,8,3,0.8162448742445865,Male,23,Single,2.4187090219215026,0
+775,HR,Developer,2018-01-25,Stay,,6,10,5,116278,"Health, Dental",6,No,10,10,3,0.947924982917518,Male,52,Single,4.451443132644216,0
+776,HR,Administrator,2021-11-09,Stay,,2,6,8,70483,"Health, Dental",1,No,7,10,5,0.8197630816065271,Male,55,Widowed,0.24019900754455592,0
+777,HR,Analyst,2017-04-29,Stay,,6,7,9,100777,"Health, Dental",7,No,8,8,4,0.92242858286044,Male,23,Married,2.820516044018499,0
+778,Finance,Developer,2019-12-29,Stay,,4,9,9,62111,"Health, Dental",1,Yes,6,10,4,0.8585769659856343,Male,55,Divorced,0.18886292642815272,0
+779,Operations,Sales Rep,2015-05-11,Stay,,8,7,5,58409,"Health, Dental",4,Yes,8,7,3,0.8990947614140026,Female,64,Divorced,0.7427474400327444,0
+780,Operations,Manager,2015-06-10,Stay,,8,10,7,118291,"Health, 401k",5,Yes,8,7,5,0.759167132700285,Male,23,Married,0.8674238674877355,0
+781,IT,Analyst,2017-07-05,Resign,Relocation,6,7,6,109629,"Health, Dental",4,No,8,9,3,0.7116435425392648,Male,40,Divorced,2.5078195669695544,1
+782,IT,Manager,2018-01-18,Stay,,6,10,7,71396,"Health, 401k",6,Yes,9,6,4,0.7740011383725955,Female,35,Single,4.794237312563434,0
+783,Finance,Manager,2019-02-04,Stay,,5,7,7,76553,"Health, 401k",7,No,10,5,4,0.73036979942783,Female,45,Married,2.886552020616727,0
+784,Finance,Analyst,2015-01-17,Stay,,9,6,5,104460,"Health, Dental",2,Yes,7,8,3,0.9108004562751563,Male,38,Married,4.740088494438803,0
+785,Operations,Analyst,2019-08-25,Stay,,4,8,8,102972,"Health, Dental, 401k",5,Yes,9,6,3,0.8707676563634993,Female,29,Single,1.0144282641756002,0
+786,IT,Administrator,2021-12-05,Stay,,2,8,8,81585,"Health, 401k",1,Yes,10,5,3,0.9381065342192012,Female,56,Divorced,1.164035167271097,0
+787,Sales,Developer,2016-05-20,Stay,,7,7,9,109791,"Health, 401k",4,Yes,10,8,4,0.8207789180542723,Female,64,Married,2.1611255757122745,0
+788,HR,Sales Rep,2019-08-16,Resign,Relocation,4,9,7,87504,"Health, Dental, 401k",7,No,10,8,5,0.7781476496207574,Male,64,Divorced,1.83692687318959,1
+789,Operations,Developer,2021-08-18,Stay,,2,7,6,82175,"Health, 401k",1,Yes,10,10,4,0.958312256645488,Female,56,Widowed,4.710173464674622,0
+790,Sales,Sales Rep,2019-08-23,Stay,,4,7,9,63629,"Health, Dental, 401k",6,Yes,6,10,5,0.8696591574545315,Male,56,Single,3.971443099827636,0
+791,Finance,Sales Rep,2020-09-26,Resign,Better Opportunity,3,8,6,73130,"Health, Dental",5,No,6,6,5,0.8418696391508212,Female,26,Single,4.9086684956018525,1
+792,HR,Administrator,2015-11-22,Stay,,8,7,9,93634,"Health, Dental",2,Yes,9,10,3,0.9674031247175066,Female,50,Divorced,2.1795933304318202,0
+793,Finance,Developer,2019-12-01,Stay,,4,7,8,103250,"Health, Dental",6,Yes,7,5,5,0.8043437690129093,Male,62,Widowed,0.14000221451929473,0
+794,IT,Analyst,2021-03-23,Stay,,2,10,5,56604,"Health, 401k",7,No,7,9,4,0.8226706603417093,Female,38,Single,0.27143021266836653,0
+795,Sales,Manager,2020-12-10,Stay,,3,7,10,68005,"Health, Dental, 401k",7,No,9,10,4,0.7772333735135193,Male,42,Widowed,1.2571414435629535,0
+796,HR,Administrator,2015-11-26,Stay,,8,10,6,99852,"Health, Dental, 401k",7,Yes,7,8,3,0.7398122558455658,Female,31,Widowed,1.764435120216289,0
+797,HR,Administrator,2019-02-15,Stay,,5,6,5,59300,"Health, 401k",6,Yes,9,6,5,0.8712688235185153,Female,59,Married,0.34974457314145946,0
+798,Finance,Administrator,2017-11-22,Stay,,6,9,9,109385,"Health, Dental, 401k",2,No,7,6,4,0.9764026396106416,Female,57,Married,2.8113736414187978,0
+799,Operations,Analyst,2021-05-29,Stay,,2,7,10,67465,"Health, 401k",1,Yes,8,10,4,0.8946406926775681,Female,52,Married,3.740104121264073,0
+800,Sales,Manager,2021-07-12,Stay,,2,10,10,65516,"Health, 401k",5,Yes,6,9,3,0.8991581270553975,Male,59,Single,2.7745573246785584,0
+801,HR,Sales Rep,2019-10-10,Stay,,4,10,9,82163,"Health, 401k",2,Yes,9,9,3,0.9575271580392029,Female,59,Married,1.3444617084995747,0
+802,HR,Analyst,2016-12-02,Resign,Personal Reasons,7,7,10,62014,"Health, Dental",6,Yes,10,6,5,0.910036314744197,Male,39,Divorced,3.827694153248049,1
+803,IT,Developer,2015-01-16,Stay,,9,8,5,88131,"Health, Dental, 401k",2,No,7,6,5,0.8127821290833264,Male,60,Divorced,3.9875311793201824,0
+804,Sales,Developer,2021-10-29,Stay,,2,8,8,86554,"Health, Dental, 401k",2,No,9,10,3,0.9409975325384318,Male,57,Widowed,1.8078259680471258,0
+805,Sales,Analyst,2018-03-22,Resign,Relocation,6,7,6,96401,"Health, 401k",5,Yes,8,7,3,0.737199211349088,Female,36,Widowed,3.447935521317726,1
+806,HR,Administrator,2022-12-19,Resign,Personal Reasons,1,7,5,92393,"Health, Dental",2,Yes,8,5,5,0.9614406815031536,Female,62,Widowed,3.8167750491057886,1
+807,Sales,Analyst,2017-05-07,Stay,,6,8,9,97178,"Health, 401k",5,Yes,6,9,5,0.8527425588537261,Male,27,Single,1.1494252026588858,0
+808,Sales,Manager,2015-06-20,Stay,,8,7,6,108041,"Health, 401k",1,Yes,9,9,3,0.8637464354763825,Male,60,Divorced,0.670025537483176,0
+809,HR,Sales Rep,2019-11-27,Stay,,4,7,10,89408,"Health, 401k",7,No,9,9,3,0.9768026807225504,Male,50,Single,4.209194748421384,0
+810,HR,Sales Rep,2021-01-14,Stay,,3,8,6,78054,"Health, Dental, 401k",5,Yes,7,6,4,0.9048039667930922,Female,48,Single,2.5139204698303255,0
+811,Finance,Sales Rep,2022-10-11,Stay,,1,10,7,115245,"Health, Dental, 401k",1,No,10,10,3,0.7234505454345205,Female,23,Widowed,3.9106133182964813,0
+812,Finance,Sales Rep,2019-08-30,Stay,,4,6,6,64922,"Health, Dental",1,No,8,8,4,0.7758718094647824,Male,60,Married,1.9264315826666,0
+813,Finance,Administrator,2017-03-18,Stay,,7,7,8,114827,"Health, 401k",2,Yes,10,5,3,0.9132299514376108,Male,47,Widowed,4.593936244416899,0
+814,Finance,Developer,2015-05-25,Stay,,8,8,5,75650,"Health, 401k",1,No,8,10,3,0.7279363139423072,Female,42,Divorced,3.1740631715442023,0
+815,Sales,Developer,2019-09-21,Resign,Better Opportunity,4,7,8,106899,"Health, Dental, 401k",1,Yes,7,6,3,0.7783890282776831,Male,32,Divorced,4.841102936114499,1
+816,IT,Analyst,2019-09-08,Resign,Relocation,4,7,7,115271,"Health, 401k",3,No,6,5,3,0.7791061263567299,Female,27,Widowed,1.073281316586117,1
+817,HR,Sales Rep,2016-02-25,Stay,,8,10,8,68212,"Health, Dental",6,Yes,9,10,4,0.9123125696011358,Male,60,Widowed,2.6694500613,0
+818,HR,Developer,2019-02-20,Stay,,5,6,6,112755,"Health, Dental",6,Yes,8,6,5,0.7154869870186241,Male,23,Divorced,0.8339216079677447,0
+819,Operations,Manager,2017-10-29,Stay,,6,7,6,76089,"Health, Dental",3,Yes,8,9,5,0.8034943425376313,Female,64,Married,0.666666788995206,0
+820,IT,Analyst,2021-03-27,Resign,Personal Reasons,2,6,6,103765,"Health, 401k",3,No,9,8,5,0.8279118780471576,Female,26,Married,3.457567102620958,1
+821,IT,Administrator,2017-08-09,Stay,,6,8,5,82990,"Health, Dental, 401k",4,No,6,7,4,0.7219878390280571,Female,56,Divorced,1.1035911623226875,0
+822,HR,Developer,2019-06-14,Stay,,4,8,9,74747,"Health, Dental, 401k",5,Yes,8,6,3,0.8375204614816878,Male,57,Single,3.9782018011534346,0
+823,IT,Sales Rep,2015-02-06,Stay,,9,9,9,119729,"Health, 401k",7,No,10,6,5,0.8594223177813585,Male,37,Divorced,2.6504479933248204,0
+824,Operations,Administrator,2016-03-07,Stay,,8,10,7,98069,"Health, 401k",7,Yes,7,9,3,0.9912455659165469,Female,63,Married,4.1887800695246185,0
+825,Sales,Manager,2015-05-21,Stay,,8,8,8,76908,"Health, Dental, 401k",5,No,6,7,3,0.9620554542507698,Male,62,Divorced,1.5319747981965097,0
+826,Finance,Manager,2019-08-19,Stay,,4,7,9,52149,"Health, Dental",3,Yes,10,9,4,0.979165956602853,Female,25,Widowed,2.8048513640656783,0
+827,Operations,Manager,2018-12-17,Stay,,5,7,5,72270,"Health, Dental",2,No,8,6,4,0.7812189904936345,Female,34,Married,2.914665323006128,0
+828,Finance,Administrator,2019-01-10,Stay,,5,8,6,94907,"Health, Dental",3,No,6,9,4,0.7450501719462542,Female,28,Widowed,1.1837432931470082,0
+829,HR,Developer,2018-03-02,Stay,,6,9,7,59021,"Health, Dental",5,No,9,10,5,0.8915477092032389,Male,41,Divorced,3.637061442714656,0
+830,Sales,Developer,2018-10-26,Stay,,5,10,6,61373,"Health, 401k",3,No,6,5,3,0.7604574651304166,Female,24,Widowed,3.4696718098177675,0
+831,Operations,Sales Rep,2018-04-26,Stay,,5,9,5,92463,"Health, Dental",6,Yes,8,5,5,0.8759446258805791,Male,22,Widowed,4.11728138473495,0
+832,IT,Administrator,2018-07-18,Stay,,5,6,6,89993,"Health, Dental, 401k",2,Yes,7,5,3,0.7587174504052582,Female,31,Divorced,2.7592332619039617,0
+833,Sales,Developer,2022-10-10,Stay,,1,10,5,85986,"Health, Dental, 401k",7,No,10,7,5,0.7195432079439119,Female,39,Divorced,2.3662780695495105,0
+834,Operations,Analyst,2020-07-07,Stay,,3,10,8,54862,"Health, Dental, 401k",5,Yes,9,10,3,0.8346772594389152,Male,43,Divorced,1.5757583705219362,0
+835,Sales,Sales Rep,2020-11-30,Stay,,3,7,5,61447,"Health, Dental, 401k",1,Yes,6,5,3,0.8909349413985608,Female,29,Widowed,2.14957544794604,0
+836,HR,Developer,2019-11-16,Resign,Better Opportunity,4,10,8,106197,"Health, Dental",2,No,7,8,3,0.7282403997257262,Female,33,Single,2.9568700693946703,1
+837,IT,Analyst,2018-09-12,Stay,,5,10,8,93729,"Health, Dental, 401k",6,Yes,7,7,5,0.8649154134329963,Male,42,Single,1.4080384722532535,0
+838,Finance,Sales Rep,2018-08-10,Resign,Personal Reasons,5,7,8,58358,"Health, Dental",4,No,10,9,5,0.8310504656895836,Male,33,Single,2.5385002180594487,1
+839,Finance,Manager,2018-01-13,Stay,,6,10,6,74731,"Health, Dental",3,No,6,9,5,0.776572567763718,Male,37,Widowed,3.6503858144704227,0
+840,Finance,Manager,2017-08-03,Stay,,6,9,6,114775,"Health, 401k",7,No,6,10,5,0.7515633649334671,Male,45,Divorced,2.1900933735921564,0
+841,Operations,Analyst,2017-09-11,Stay,,6,10,6,88379,"Health, Dental, 401k",5,No,10,8,5,0.7702977849014668,Male,37,Single,1.1211854221722284,0
+842,Sales,Manager,2022-04-02,Stay,,1,8,7,88635,"Health, Dental",2,No,7,5,4,0.9689834634326613,Male,41,Single,2.2007352420173727,0
+843,IT,Analyst,2015-10-26,Stay,,8,10,7,92102,"Health, Dental",4,No,6,9,5,0.7095611350625222,Female,60,Married,4.266328326945542,0
+844,IT,Sales Rep,2016-05-29,Resign,Better Opportunity,7,10,10,108216,"Health, Dental, 401k",5,Yes,9,9,4,0.7442453521668488,Male,41,Married,2.8349671070572198,1
+845,Operations,Developer,2019-05-15,Resign,Relocation,4,6,10,85577,"Health, Dental, 401k",5,No,8,9,3,0.8554509610004208,Male,55,Divorced,3.532283335693651,1
+846,IT,Sales Rep,2019-12-29,Stay,,4,6,9,60486,"Health, Dental, 401k",3,Yes,6,7,4,0.904792274825861,Female,42,Single,0.989584909574131,0
+847,IT,Analyst,2016-12-05,Resign,Personal Reasons,7,9,7,61488,"Health, Dental, 401k",2,Yes,9,9,5,0.8230959059580496,Male,43,Divorced,0.7189044943270717,1
+848,Sales,Administrator,2016-01-31,Stay,,8,6,6,78393,"Health, 401k",7,Yes,7,8,3,0.7721073499385396,Male,37,Married,1.0532634544294162,0
+849,Sales,Administrator,2022-09-04,Stay,,1,9,7,58922,"Health, Dental",7,Yes,10,10,5,0.7823042289950668,Female,64,Married,3.5434175806240487,0
+850,Sales,Analyst,2021-01-01,Resign,Relocation,3,6,7,90624,"Health, Dental",1,Yes,9,7,3,0.894819584033478,Female,29,Single,4.382665536303143,1
+851,Operations,Manager,2019-06-08,Stay,,4,6,7,74935,"Health, Dental, 401k",5,No,9,7,4,0.9138705452394242,Male,56,Widowed,4.9308645968456135,0
+852,Operations,Analyst,2015-02-23,Stay,,9,7,9,99850,"Health, Dental",2,Yes,6,9,5,0.9910856927753213,Male,35,Single,4.387350455864432,0
+853,Operations,Developer,2018-09-09,Stay,,5,9,8,77473,"Health, Dental",4,No,10,10,3,0.911052342850437,Male,45,Married,4.3177120473890644,0
+854,IT,Sales Rep,2018-02-18,Stay,,6,10,6,61985,"Health, 401k",1,No,10,6,5,0.8265746396764806,Male,60,Widowed,3.8319430129318914,0
+855,Finance,Analyst,2020-01-25,Stay,,4,6,6,105941,"Health, 401k",5,No,9,8,3,0.7736618546777679,Female,49,Divorced,4.942724909602646,0
+856,IT,Developer,2015-02-24,Stay,,9,9,10,89342,"Health, Dental",3,No,9,8,3,0.860391629951852,Female,57,Widowed,0.30290958868103846,0
+857,Sales,Administrator,2017-07-03,Stay,,6,10,9,119863,"Health, 401k",3,No,7,8,4,0.9179698573791722,Female,28,Widowed,3.5084969709485363,0
+858,Finance,Analyst,2017-01-18,Resign,Personal Reasons,7,6,5,54817,"Health, Dental, 401k",6,No,6,7,5,0.734977606358459,Female,46,Married,3.725482246776746,1
+859,HR,Manager,2015-01-01,Stay,,9,8,8,119525,"Health, 401k",1,Yes,10,7,4,0.7179427585099923,Male,37,Widowed,2.401978152843193,0
+860,Finance,Analyst,2018-12-06,Stay,,5,10,9,88718,"Health, 401k",5,Yes,8,7,3,0.76724747348688,Female,26,Single,4.818312535538924,0
+861,Sales,Administrator,2016-01-10,Stay,,8,6,6,77338,"Health, Dental, 401k",5,No,9,7,3,0.8257741960586928,Female,28,Single,3.414018088207251,0
+862,Sales,Developer,2022-10-07,Stay,,1,6,7,80215,"Health, Dental, 401k",4,Yes,8,7,3,0.900152325220333,Male,29,Single,2.438444490966515,0
+863,Sales,Analyst,2021-01-01,Stay,,3,10,9,94983,"Health, 401k",7,Yes,9,6,5,0.7027430881103367,Male,23,Single,2.6710003518029835,0
+864,Sales,Analyst,2022-07-10,Stay,,1,9,5,66456,"Health, 401k",4,Yes,10,8,3,0.8615668807264028,Female,43,Divorced,4.396157383393261,0
+865,HR,Manager,2021-05-08,Stay,,2,7,9,69313,"Health, 401k",3,Yes,6,8,4,0.7872624024399999,Male,26,Widowed,2.5173602938037174,0
+866,Finance,Analyst,2021-12-11,Stay,,2,6,5,85797,"Health, 401k",3,Yes,8,9,4,0.8005046512530376,Female,58,Single,3.01239030408588,0
+867,HR,Sales Rep,2018-02-17,Resign,Relocation,6,9,10,114950,"Health, Dental, 401k",7,No,7,8,5,0.8299689837583686,Female,34,Single,4.33433882193483,1
+868,IT,Analyst,2017-08-26,Stay,,6,8,9,59433,"Health, Dental",5,No,10,10,3,0.8380074372689006,Female,52,Single,2.9427092422390215,0
+869,Finance,Developer,2017-07-01,Stay,,6,10,10,55546,"Health, Dental",2,No,8,10,3,0.8205341642732541,Male,33,Divorced,4.611692516567622,0
+870,IT,Sales Rep,2021-10-02,Stay,,2,9,5,96625,"Health, Dental, 401k",6,Yes,9,10,3,0.726217925004681,Male,44,Married,1.3748268634735878,0
+871,IT,Manager,2022-07-24,Resign,Personal Reasons,1,9,9,102963,"Health, 401k",4,Yes,6,6,4,0.7477431130285894,Male,25,Married,1.9546926244917646,1
+872,IT,Developer,2020-08-11,Stay,,3,9,5,105462,"Health, 401k",1,No,9,7,5,0.8480078109096404,Female,51,Widowed,0.623068955543189,0
+873,Sales,Manager,2015-12-03,Stay,,8,7,5,65221,"Health, Dental",1,No,6,6,4,0.8159670348586247,Male,25,Single,1.4738416335048927,0
+874,Finance,Analyst,2016-04-18,Stay,,7,7,9,108654,"Health, Dental",1,No,9,10,3,0.9990105033614392,Male,44,Divorced,2.948578180355668,0
+875,Operations,Analyst,2020-05-26,Stay,,3,8,6,86827,"Health, 401k",3,Yes,8,7,5,0.9308858511360716,Male,24,Widowed,3.7348041085014705,0
+876,Finance,Analyst,2022-02-19,Stay,,2,6,9,61532,"Health, Dental, 401k",7,Yes,7,9,4,0.8748553804273579,Female,59,Widowed,0.870759939424553,0
+877,Sales,Administrator,2021-09-12,Stay,,2,7,6,85327,"Health, Dental, 401k",2,No,9,7,3,0.8643505174440776,Female,40,Divorced,0.3492437409659599,0
+878,Finance,Administrator,2019-06-16,Resign,Relocation,4,7,5,80690,"Health, Dental, 401k",1,Yes,8,5,5,0.714998797423246,Male,43,Widowed,2.487029961283367,1
+879,Sales,Administrator,2018-02-06,Resign,Relocation,6,7,10,65052,"Health, 401k",3,No,8,5,4,0.9030194598861411,Female,25,Widowed,2.2830989990093014,1
+880,Finance,Sales Rep,2017-02-23,Stay,,7,7,9,109355,"Health, 401k",4,Yes,9,7,3,0.8696290525122025,Female,61,Divorced,2.330390448181195,0
+881,Finance,Administrator,2017-11-17,Stay,,6,8,5,99718,"Health, 401k",4,Yes,7,5,5,0.8547700470235565,Male,26,Married,1.888793350932999,0
+882,IT,Analyst,2015-05-10,Stay,,8,9,6,88614,"Health, 401k",2,Yes,6,10,4,0.9299334040922347,Female,34,Married,0.2499411148214037,0
+883,HR,Analyst,2021-03-23,Resign,Better Opportunity,2,10,9,62087,"Health, Dental",6,Yes,8,8,3,0.9348971193629798,Female,54,Single,3.3862856012907034,1
+884,Finance,Manager,2021-08-09,Stay,,2,10,9,72978,"Health, Dental, 401k",3,No,8,8,5,0.7650071957415199,Female,40,Widowed,0.7264404068933922,0
+885,Operations,Developer,2018-05-10,Stay,,5,9,9,96146,"Health, Dental",6,Yes,8,6,3,0.7553947648755548,Male,57,Married,1.6394952345861507,0
+886,HR,Developer,2020-12-30,Stay,,3,6,8,109727,"Health, 401k",5,Yes,8,8,3,0.8978999609931262,Female,28,Divorced,4.213056802595554,0
+887,Operations,Sales Rep,2015-06-25,Resign,Personal Reasons,8,8,10,60132,"Health, Dental",4,Yes,9,9,5,0.7992407047751773,Female,50,Single,4.658674513412119,1
+888,Finance,Developer,2017-03-03,Stay,,7,8,6,105793,"Health, Dental",3,No,6,9,3,0.8364337459436315,Male,45,Divorced,0.5853123897846246,0
+889,Sales,Sales Rep,2018-10-16,Stay,,5,7,5,53801,"Health, Dental",2,Yes,9,10,5,0.7133131980096254,Male,46,Single,1.2152518034674626,0
+890,Finance,Manager,2016-08-22,Stay,,7,9,5,55784,"Health, Dental, 401k",4,No,7,6,5,0.8268816823682742,Male,49,Divorced,4.44046383099137,0
+891,IT,Analyst,2021-09-10,Stay,,2,7,9,56659,"Health, 401k",3,Yes,6,5,5,0.9825546911040253,Female,40,Married,1.4519729125886256,0
+892,Sales,Analyst,2015-11-01,Stay,,8,10,7,94936,"Health, 401k",6,Yes,10,9,4,0.906300578844787,Male,38,Widowed,0.358348539788646,0
+893,Operations,Sales Rep,2018-06-16,Stay,,5,10,7,97380,"Health, Dental, 401k",5,Yes,7,8,3,0.945821649310991,Male,58,Divorced,4.416965146548047,0
+894,Finance,Administrator,2018-12-14,Stay,,5,9,8,96127,"Health, Dental, 401k",5,Yes,9,8,3,0.8882574142883142,Male,63,Single,1.96537023616199,0
+895,Finance,Manager,2016-12-09,Stay,,7,10,5,100734,"Health, Dental, 401k",2,No,8,7,3,0.8755325230912067,Male,23,Married,0.32101797691832246,0
+896,Sales,Analyst,2019-12-25,Stay,,4,8,9,98813,"Health, Dental, 401k",4,Yes,9,6,5,0.9912564863879221,Female,36,Married,0.841556431661763,0
+897,Finance,Analyst,2015-03-13,Stay,,9,7,8,95500,"Health, 401k",2,No,9,5,5,0.8469141634887305,Male,49,Married,3.8584930822744603,0
+898,HR,Manager,2016-07-04,Stay,,7,8,9,119306,"Health, Dental, 401k",5,Yes,9,10,5,0.937090588901098,Female,35,Married,2.5815620175737086,0
+899,Operations,Sales Rep,2016-04-19,Stay,,7,9,5,59734,"Health, 401k",2,Yes,7,7,4,0.769423288337467,Female,35,Divorced,3.4549214020927668,0
+900,Finance,Administrator,2017-06-29,Stay,,6,9,7,85442,"Health, Dental, 401k",4,No,10,10,4,0.7305883403830483,Female,48,Widowed,3.148232722699329,0
+901,Finance,Sales Rep,2016-12-05,Stay,,7,10,10,76687,"Health, 401k",4,Yes,8,10,3,0.7543980976255467,Female,42,Single,3.109150487584395,0
+902,Sales,Manager,2017-05-21,Resign,Personal Reasons,6,6,6,59671,"Health, Dental",3,Yes,8,8,3,0.8026912350616214,Male,36,Widowed,1.0741089809357274,1
+903,IT,Developer,2021-05-04,Stay,,2,6,6,108967,"Health, Dental",7,Yes,9,6,5,0.8382048566599206,Male,41,Single,2.78051797415554,0
+904,Operations,Sales Rep,2018-10-21,Stay,,5,9,9,67346,"Health, Dental, 401k",3,No,9,6,3,0.9668161112392735,Female,61,Married,1.4942549516368764,0
+905,HR,Developer,2019-11-06,Stay,,4,8,8,57481,"Health, Dental, 401k",6,No,9,9,5,0.8777876593760898,Male,48,Divorced,0.4200552512940725,0
+906,HR,Manager,2017-04-02,Stay,,6,7,6,94895,"Health, 401k",1,No,9,8,3,0.892783027827444,Female,39,Married,2.7126727152067587,0
+907,Sales,Developer,2015-09-07,Resign,Relocation,8,6,8,52026,"Health, 401k",3,No,7,10,5,0.81548471404042,Male,43,Divorced,1.0696895175578702,1
+908,HR,Analyst,2018-09-17,Stay,,5,6,5,93213,"Health, Dental",6,Yes,7,8,3,0.9008859815866447,Male,54,Married,4.936146245956978,0
+909,IT,Developer,2020-06-19,Stay,,3,8,9,104507,"Health, 401k",1,Yes,6,7,4,0.8212347837316996,Female,46,Divorced,4.654013017269306,0
+910,Finance,Administrator,2017-01-23,Stay,,7,9,10,69000,"Health, Dental, 401k",3,No,6,8,3,0.8824207345252859,Female,60,Married,0.7588737567147874,0
+911,Operations,Administrator,2018-10-20,Stay,,5,10,8,94541,"Health, 401k",4,Yes,7,8,3,0.8607430014334752,Female,29,Divorced,1.6526649198138155,0
+912,Finance,Manager,2016-06-21,Stay,,7,8,9,91317,"Health, Dental",4,No,9,5,4,0.7923719626163854,Male,49,Married,0.2307339446009482,0
+913,Sales,Administrator,2020-01-31,Stay,,4,9,6,107901,"Health, Dental",2,No,8,6,4,0.7250807438175199,Female,30,Divorced,2.3603479481375205,0
+914,Finance,Developer,2015-10-02,Stay,,8,7,7,92391,"Health, Dental",7,Yes,7,5,3,0.7367811763297752,Male,44,Single,0.4143002294488196,0
+915,IT,Analyst,2019-12-02,Resign,Better Opportunity,4,9,5,91028,"Health, 401k",4,Yes,7,10,4,0.8724716937526799,Male,35,Divorced,4.8156086782284415,1
+916,HR,Manager,2017-02-27,Stay,,7,10,6,99992,"Health, Dental",7,Yes,6,8,4,0.7219334284051169,Male,52,Divorced,3.026891186509024,0
+917,Operations,Sales Rep,2015-04-21,Stay,,8,9,10,82513,"Health, Dental, 401k",4,Yes,10,10,4,0.8359166705677921,Female,24,Widowed,1.616590288523791,0
+918,IT,Analyst,2019-09-24,Stay,,4,9,9,88067,"Health, Dental, 401k",1,No,8,7,5,0.9697182812625922,Male,47,Divorced,1.8728065883147682,0
+919,Sales,Sales Rep,2019-03-20,Resign,Better Opportunity,5,8,8,102909,"Health, Dental",2,Yes,8,9,5,0.8747917221912551,Male,62,Single,3.750798560456529,1
+920,Operations,Manager,2019-10-26,Stay,,4,10,9,108960,"Health, 401k",4,Yes,10,5,4,0.9929988878015772,Female,61,Single,3.307190548316265,0
+921,Finance,Sales Rep,2021-09-15,Stay,,2,10,8,95350,"Health, Dental, 401k",4,No,6,10,5,0.7863642468596327,Male,35,Married,1.5944036618391606,0
+922,Sales,Analyst,2015-04-17,Stay,,8,6,9,56640,"Health, Dental",7,Yes,8,5,4,0.8949740300435534,Female,52,Divorced,4.437975238803553,0
+923,Finance,Administrator,2019-01-24,Stay,,5,6,5,66890,"Health, 401k",5,No,6,7,3,0.980426468678622,Female,61,Married,4.195240466222485,0
+924,IT,Manager,2015-05-15,Stay,,8,7,7,64963,"Health, Dental",4,No,6,8,3,0.8048212757965848,Female,52,Married,0.3889097879516168,0
+925,IT,Administrator,2017-02-14,Stay,,7,7,10,80068,"Health, Dental",5,No,9,9,3,0.8600741642644443,Male,22,Married,0.23369750085572127,0
+926,Sales,Administrator,2019-05-23,Stay,,4,10,8,114678,"Health, 401k",3,Yes,10,5,3,0.954153541340757,Female,57,Widowed,4.1041601473295835,0
+927,HR,Administrator,2016-03-03,Stay,,8,9,6,73019,"Health, 401k",3,No,10,7,3,0.7994004054874636,Female,25,Divorced,1.8289742043447388,0
+928,Sales,Analyst,2016-06-30,Resign,Relocation,7,6,7,53742,"Health, 401k",4,Yes,9,5,4,0.7026860611615048,Female,35,Single,0.06743349530488385,1
+929,HR,Developer,2022-12-24,Resign,Better Opportunity,1,7,5,88859,"Health, 401k",2,No,6,8,4,0.9970676555332356,Male,31,Widowed,0.47783724336563527,1
+930,Sales,Administrator,2018-08-29,Stay,,5,10,8,106365,"Health, Dental, 401k",4,Yes,6,8,3,0.8218367729771179,Female,45,Widowed,4.182299386432763,0
+931,Sales,Developer,2019-06-22,Stay,,4,9,9,94517,"Health, Dental",3,Yes,8,10,4,0.7328424991777721,Female,30,Widowed,4.072175562518666,0
+932,Operations,Manager,2022-04-30,Stay,,1,8,10,83086,"Health, 401k",5,No,10,5,3,0.9208082402176196,Male,38,Divorced,3.6781170613436314,0
+933,HR,Sales Rep,2018-09-18,Stay,,5,9,10,118698,"Health, 401k",5,Yes,8,9,5,0.7975178487426116,Male,59,Single,1.8365822517190433,0
+934,HR,Administrator,2018-02-05,Stay,,6,6,9,99561,"Health, Dental",6,Yes,8,10,4,0.7505370192770541,Male,60,Widowed,1.270715096774218,0
+935,IT,Developer,2021-06-22,Stay,,2,9,7,103005,"Health, Dental",3,Yes,10,8,3,0.7355471549190206,Male,56,Single,4.368888344500438,0
+936,Finance,Manager,2018-09-07,Stay,,5,6,9,91236,"Health, 401k",4,No,8,6,3,0.90927208446497,Male,29,Single,0.8313452014053507,0
+937,IT,Analyst,2020-11-11,Resign,Better Opportunity,3,8,7,91476,"Health, Dental, 401k",3,No,10,9,4,0.9979786644231428,Male,53,Widowed,2.131264038292172,1
+938,HR,Manager,2020-04-08,Resign,Personal Reasons,3,9,7,64543,"Health, 401k",3,Yes,6,8,3,0.817574404665773,Female,28,Divorced,4.3824407439413795,1
+939,Operations,Analyst,2017-12-17,Stay,,6,8,6,77641,"Health, Dental, 401k",5,No,6,9,4,0.9291215824748336,Male,31,Widowed,2.3375337506812826,0
+940,HR,Sales Rep,2016-05-13,Stay,,7,6,6,107251,"Health, Dental, 401k",7,No,7,6,5,0.896272096001143,Male,49,Single,1.7850492442820154,0
+941,Finance,Sales Rep,2018-02-11,Resign,Better Opportunity,6,6,6,84856,"Health, 401k",5,Yes,8,10,4,0.826288452809505,Male,32,Divorced,2.554962789767308,1
+942,Finance,Developer,2022-05-31,Stay,,1,6,9,90834,"Health, 401k",3,Yes,8,5,4,0.7146801821814206,Female,29,Divorced,4.09348734618934,0
+943,Sales,Analyst,2016-10-08,Stay,,7,10,8,50330,"Health, Dental, 401k",7,No,10,6,5,0.8228286863117618,Male,46,Single,2.394210448476138,0
+944,Operations,Analyst,2017-01-01,Stay,,7,6,8,116907,"Health, 401k",5,No,8,9,5,0.7087797051858832,Male,37,Married,2.873244404067477,0
+945,IT,Sales Rep,2018-08-25,Stay,,5,7,6,51891,"Health, Dental",4,No,7,10,5,0.9856724931873441,Female,53,Divorced,1.9618058977549198,0
+946,Operations,Manager,2021-12-06,Stay,,2,9,6,92688,"Health, 401k",4,Yes,9,10,3,0.8228164624147686,Female,57,Married,2.681805641421873,0
+947,Sales,Manager,2022-03-15,Stay,,2,10,8,109812,"Health, 401k",1,No,9,7,5,0.8737720561987001,Female,57,Single,4.033236071934469,0
+948,HR,Developer,2016-02-05,Stay,,8,8,6,103918,"Health, 401k",3,No,6,10,4,0.9822204640199372,Male,60,Widowed,2.7391489236740902,0
+949,Finance,Sales Rep,2022-12-30,Resign,Better Opportunity,1,8,7,110550,"Health, 401k",7,No,7,10,3,0.8728073844535287,Male,47,Single,2.4812652608347827,1
+950,HR,Sales Rep,2022-04-20,Resign,Personal Reasons,1,7,5,55885,"Health, Dental",2,No,6,7,3,0.7516986783591028,Female,31,Widowed,2.355127555177601,1
+951,HR,Administrator,2015-11-13,Stay,,8,9,10,79663,"Health, Dental, 401k",6,No,10,9,5,0.9854840736600248,Female,61,Married,3.8823373428935266,0
+952,Sales,Developer,2020-11-19,Stay,,3,7,7,60108,"Health, Dental",4,No,9,10,5,0.7563819611168209,Male,52,Widowed,1.1408650541061949,0
+953,IT,Sales Rep,2021-11-07,Resign,Personal Reasons,2,9,8,98240,"Health, Dental",7,Yes,10,7,5,0.7384438430558787,Male,51,Married,2.1231498526976345,1
+954,HR,Administrator,2017-08-08,Stay,,6,8,6,91343,"Health, 401k",6,No,7,8,3,0.8087354313262038,Male,41,Widowed,1.5380388194947647,0
+955,Finance,Analyst,2021-05-09,Stay,,2,7,5,89414,"Health, 401k",7,No,6,9,5,0.8304552508076758,Female,55,Married,0.5896491369238177,0
+956,Finance,Administrator,2019-09-13,Stay,,4,8,6,101700,"Health, 401k",5,No,6,8,5,0.9932117518321546,Female,36,Single,3.101386161255406,0
+957,IT,Sales Rep,2019-08-29,Stay,,4,9,10,76087,"Health, Dental",3,Yes,8,9,5,0.8662164739731921,Female,29,Married,3.310608751625108,0
+958,IT,Manager,2016-12-14,Resign,Better Opportunity,7,7,10,59089,"Health, 401k",2,No,7,6,5,0.941752180463719,Male,59,Married,0.4858993040953119,1
+959,Sales,Developer,2016-03-03,Stay,,8,7,7,81273,"Health, 401k",2,No,7,9,5,0.9306951193064046,Female,38,Single,4.626409549205686,0
+960,Operations,Analyst,2018-02-20,Stay,,6,10,10,78258,"Health, Dental",7,No,6,9,3,0.8206678742223636,Male,63,Single,2.9566080524424527,0
+961,Finance,Manager,2022-08-26,Resign,Personal Reasons,1,10,10,112081,"Health, Dental, 401k",2,No,10,5,3,0.7223947709873856,Female,33,Married,1.4040540002539976,1
+962,HR,Developer,2020-01-14,Stay,,4,9,10,57504,"Health, Dental",7,No,8,7,4,0.7359193689663165,Female,48,Single,0.10269700628127987,0
+963,Sales,Analyst,2016-02-03,Stay,,8,9,10,81668,"Health, 401k",2,Yes,6,7,4,0.9978151813177653,Female,50,Single,2.7047663307755725,0
+964,IT,Analyst,2017-12-19,Resign,Better Opportunity,6,7,6,62502,"Health, Dental, 401k",4,No,9,6,4,0.9579835789324502,Female,28,Widowed,1.6633181127466479,1
+965,HR,Sales Rep,2019-04-13,Stay,,4,10,10,99056,"Health, 401k",1,No,8,6,3,0.8037154780944055,Male,45,Divorced,4.896338631344724,0
+966,Operations,Administrator,2019-11-23,Resign,Personal Reasons,4,9,7,117701,"Health, Dental",5,Yes,8,6,5,0.9498340850301571,Male,39,Divorced,4.832443345734271,1
+967,IT,Manager,2020-01-21,Resign,Relocation,4,7,5,82920,"Health, Dental, 401k",4,No,6,5,5,0.969960215762756,Female,50,Widowed,2.4021316816081706,1
+968,Operations,Administrator,2021-12-14,Resign,Better Opportunity,2,9,9,80207,"Health, 401k",1,Yes,9,6,5,0.9770185284289683,Female,62,Single,3.4256379920466475,1
+969,Operations,Sales Rep,2021-12-05,Stay,,2,6,9,101056,"Health, Dental",4,No,8,9,4,0.9625617976671919,Male,57,Widowed,2.899489314031692,0
+970,Finance,Sales Rep,2017-11-07,Stay,,6,10,5,115937,"Health, 401k",5,No,10,10,3,0.7558659700265258,Female,50,Single,0.5105531183185946,0
+971,Finance,Manager,2015-07-28,Resign,Better Opportunity,8,9,6,88437,"Health, 401k",4,Yes,6,7,4,0.9380395138950033,Female,39,Married,1.3715846024228555,1
+972,Operations,Analyst,2016-09-13,Stay,,7,8,10,105992,"Health, Dental",5,No,10,8,4,0.7166905472707282,Female,51,Widowed,0.8752296336300314,0
+973,Finance,Developer,2018-10-09,Stay,,5,7,9,72935,"Health, Dental, 401k",3,No,10,9,4,0.9419581138650631,Female,34,Single,1.612744652333743,0
+974,IT,Analyst,2017-11-17,Stay,,6,7,7,111969,"Health, Dental, 401k",4,Yes,6,9,5,0.8730726094493253,Male,43,Married,1.345487667342632,0
+975,Operations,Administrator,2018-11-26,Stay,,5,10,9,78000,"Health, Dental, 401k",3,No,10,5,5,0.9204808765175936,Male,27,Widowed,1.1953360839809901,0
+976,Operations,Manager,2018-07-10,Resign,Personal Reasons,5,10,7,75121,"Health, Dental",4,Yes,7,5,5,0.8649116685007361,Female,64,Divorced,3.773029015380109,1
+977,Sales,Sales Rep,2017-01-04,Stay,,7,7,10,56579,"Health, Dental",3,Yes,9,5,4,0.8792556979073014,Male,26,Divorced,4.247354863770305,0
+978,Sales,Analyst,2022-03-21,Stay,,2,9,5,113432,"Health, Dental",6,No,9,7,4,0.7111064121916184,Female,64,Divorced,2.285604477388852,0
+979,Sales,Manager,2018-07-28,Stay,,5,10,9,54905,"Health, 401k",3,Yes,10,10,3,0.7094367338509219,Male,46,Single,3.8821844813682227,0
+980,Sales,Developer,2017-02-24,Stay,,7,10,5,97597,"Health, Dental",3,Yes,9,10,5,0.943639181166941,Male,29,Widowed,0.5228077317312368,0
+981,HR,Sales Rep,2022-11-11,Stay,,1,7,8,118920,"Health, Dental, 401k",2,No,8,6,4,0.7873169102136218,Female,47,Married,4.034358603788889,0
+982,Sales,Analyst,2018-01-22,Stay,,6,7,5,51246,"Health, 401k",1,No,8,10,3,0.9421642775705784,Male,61,Widowed,3.0976218205432895,0
+983,IT,Sales Rep,2018-02-04,Stay,,6,9,10,94439,"Health, 401k",1,Yes,9,7,4,0.9110512369388984,Male,36,Single,3.5499684147013806,0
+984,HR,Administrator,2016-11-20,Stay,,7,7,9,59320,"Health, Dental, 401k",6,Yes,7,7,4,0.8694842994145549,Female,39,Widowed,0.8894394003591327,0
+985,IT,Developer,2020-05-31,Stay,,3,6,10,94822,"Health, Dental, 401k",3,Yes,7,7,4,0.7314882803425939,Female,25,Single,4.534545173067639,0
+986,Sales,Developer,2021-10-11,Resign,Relocation,2,9,7,64284,"Health, Dental, 401k",6,No,6,7,3,0.7198127212245791,Male,51,Divorced,2.020801298546669,1
+987,Operations,Developer,2017-11-02,Resign,Relocation,6,8,5,118674,"Health, 401k",2,Yes,6,8,3,0.8151944467461529,Male,57,Divorced,0.6855926604045665,1
+988,HR,Administrator,2020-01-29,Stay,,4,9,9,100320,"Health, Dental, 401k",2,Yes,8,6,3,0.9775755685516634,Male,55,Married,3.824512200836261,0
+989,Operations,Analyst,2020-11-23,Resign,Better Opportunity,3,6,6,62641,"Health, Dental, 401k",5,No,9,7,5,0.7678789945363526,Female,42,Widowed,3.938817433728919,1
+990,IT,Analyst,2021-05-13,Stay,,2,8,7,103204,"Health, Dental",2,No,10,10,3,0.8266722243758136,Female,44,Single,2.5008382924634094,0
+991,IT,Analyst,2022-04-13,Stay,,1,9,6,115203,"Health, 401k",3,No,6,7,5,0.892506338731509,Male,48,Married,1.3688825760182528,0
+992,HR,Analyst,2021-02-26,Stay,,3,7,6,93909,"Health, 401k",5,No,9,7,4,0.8490105577834761,Female,24,Married,0.43665317341813503,0
+993,IT,Analyst,2017-03-15,Stay,,7,8,10,74287,"Health, Dental, 401k",1,Yes,7,7,5,0.707528786203799,Male,40,Divorced,1.6844045249434392,0
+994,HR,Manager,2017-07-27,Stay,,6,10,8,54143,"Health, Dental, 401k",7,No,9,10,3,0.9085859514300076,Male,24,Widowed,2.976411085339193,0
+995,IT,Administrator,2019-11-17,Stay,,4,7,5,116448,"Health, Dental",1,Yes,7,6,5,0.9755223023537523,Female,23,Married,3.7385666884418605,0
+996,Operations,Developer,2016-09-19,Resign,Relocation,7,9,6,116095,"Health, 401k",4,Yes,6,10,3,0.8799082894550145,Female,40,Widowed,4.442980030014797,1
+997,Finance,Analyst,2015-08-12,Stay,,8,7,7,55626,"Health, 401k",3,No,8,10,4,0.8741238049493892,Female,22,Widowed,2.849829810953925,0
+998,Sales,Analyst,2018-04-11,Resign,Relocation,5,7,6,107454,"Health, Dental",7,No,7,8,3,0.9505894724935732,Male,37,Married,0.5311114111058801,1
+999,Sales,Developer,2020-03-04,Stay,,4,7,10,99174,"Health, Dental, 401k",6,Yes,9,10,3,0.9498515210898585,Female,36,Widowed,3.415274653978412,0
+1000,Finance,Developer,2018-10-22,Resign,Personal Reasons,5,10,8,112930,"Health, 401k",4,No,6,9,5,0.7560269583307092,Female,39,Divorced,0.13909358804841454,1
